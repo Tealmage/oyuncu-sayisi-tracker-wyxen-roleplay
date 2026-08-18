@@ -6,10 +6,10 @@
     "map": "wyx_map",
     "game": "IX: DarkRP",
     "online": true,
-    "players": 2,
+    "players": 3,
     "max_players": 128,
-    "last_query": "2026-08-18T06:26:47.725160",
-    "last_successful_query": "2026-08-18T06:26:47.725160"
+    "last_query": "2026-08-18T08:05:47.216666",
+    "last_successful_query": "2026-08-18T08:05:47.216666"
   },
   "players": {
     "name:Tealmage": {
@@ -21,7 +21,7 @@
       "first_seen": "2026-08-18T06:26:47.725160",
       "last_seen": "2026-08-18T06:26:47.725160",
       "sessions": [],
-      "current_session_start": "2026-08-18T06:26:47.725160",
+      "current_session_start": null,
       "weekly_stats": {},
       "monthly_stats": {}
     },
@@ -32,9 +32,35 @@
       ],
       "total_minutes": 0,
       "first_seen": "2026-08-18T06:26:47.725160",
-      "last_seen": "2026-08-18T06:26:47.725160",
+      "last_seen": "2026-08-18T08:05:47.216666",
       "sessions": [],
       "current_session_start": "2026-08-18T06:26:47.725160",
+      "weekly_stats": {},
+      "monthly_stats": {}
+    },
+    "name:uygar": {
+      "name": "uygar",
+      "name_history": [
+        "uygar"
+      ],
+      "total_minutes": 0,
+      "first_seen": "2026-08-18T08:05:47.216666",
+      "last_seen": "2026-08-18T08:05:47.216666",
+      "sessions": [],
+      "current_session_start": "2026-08-18T08:05:47.216666",
+      "weekly_stats": {},
+      "monthly_stats": {}
+    },
+    "name:MrZen55": {
+      "name": "MrZen55",
+      "name_history": [
+        "MrZen55"
+      ],
+      "total_minutes": 0,
+      "first_seen": "2026-08-18T08:05:47.216666",
+      "last_seen": "2026-08-18T08:05:47.216666",
+      "sessions": [],
+      "current_session_start": "2026-08-18T08:05:47.216666",
       "weekly_stats": {},
       "monthly_stats": {}
     }
@@ -43,8 +69,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 1,
+    "total_queries": 2,
     "failed_queries": 0
   },
-  "updated_at": "2026-08-18T06:26:47.725160"
+  "updated_at": "2026-08-18T08:05:47.216666"
 }
