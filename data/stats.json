@@ -6,18 +6,32 @@
     "map": "wyx_map",
     "game": "IX: DarkRP",
     "online": true,
-    "players": 0,
+    "players": 1,
     "max_players": 128,
-    "last_query": "2026-08-18T03:42:34.976638",
-    "last_successful_query": "2026-08-18T03:42:34.976638"
+    "last_query": "2026-08-18T04:50:58.076388",
+    "last_successful_query": "2026-08-18T04:50:58.076388"
   },
-  "players": {},
+  "players": {
+    "name:Tealmage": {
+      "name": "Tealmage",
+      "name_history": [
+        "Tealmage"
+      ],
+      "total_minutes": 0,
+      "first_seen": "2026-08-18T04:50:58.076388",
+      "last_seen": "2026-08-18T04:50:58.076388",
+      "sessions": [],
+      "current_session_start": "2026-08-18T04:50:58.076388",
+      "weekly_stats": {},
+      "monthly_stats": {}
+    }
+  },
   "metadata": {
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 2,
+    "total_queries": 3,
     "failed_queries": 0
   },
-  "updated_at": "2026-08-18T03:42:34.976638"
+  "updated_at": "2026-08-18T04:50:58.076388"
 }
