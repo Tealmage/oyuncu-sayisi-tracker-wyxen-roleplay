@@ -2,22 +2,49 @@
   "server": {
     "ip": "185.213.240.239",
     "port": 27015,
-    "name": null,
-    "map": null,
-    "game": null,
-    "online": false,
-    "players": null,
-    "max_players": null,
-    "last_query": null,
-    "last_successful_query": null
+    "name": "[TR] Wyxen Roleplay v1.5 | discord.gg/wyxen",
+    "map": "wyx_map",
+    "game": "IX: DarkRP",
+    "online": true,
+    "players": 2,
+    "max_players": 128,
+    "last_query": "2026-08-18T06:26:47.725160",
+    "last_successful_query": "2026-08-18T06:26:47.725160"
   },
-  "players": {},
+  "players": {
+    "name:Tealmage": {
+      "name": "Tealmage",
+      "name_history": [
+        "Tealmage"
+      ],
+      "total_minutes": 0,
+      "first_seen": "2026-08-18T06:26:47.725160",
+      "last_seen": "2026-08-18T06:26:47.725160",
+      "sessions": [],
+      "current_session_start": "2026-08-18T06:26:47.725160",
+      "weekly_stats": {},
+      "monthly_stats": {}
+    },
+    "name:M C C T S R": {
+      "name": "M C C T S R",
+      "name_history": [
+        "M C C T S R"
+      ],
+      "total_minutes": 0,
+      "first_seen": "2026-08-18T06:26:47.725160",
+      "last_seen": "2026-08-18T06:26:47.725160",
+      "sessions": [],
+      "current_session_start": "2026-08-18T06:26:47.725160",
+      "weekly_stats": {},
+      "monthly_stats": {}
+    }
+  },
   "metadata": {
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 0,
+    "total_queries": 1,
     "failed_queries": 0
   },
-  "updated_at": null
+  "updated_at": "2026-08-18T06:26:47.725160"
 }
