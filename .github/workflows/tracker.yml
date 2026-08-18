@@ -2,9 +2,9 @@ name: Wyxen Player Tracker
 
 on:
   schedule:
-    # Her 5 dakikada bir çalışır (GitHub Actions minimum interval)
-    # Not: GitHub Actions cron kesin zamanlı değildir, birkaç dakika gecikebilir
-    - cron: '*/5 * * * *'
+    # Her 1 dakikada bir çalışır
+    # Not: GitHub Actions cron minimum 1 dakikadır ve kesin zamanlı değildir
+    - cron: '* * * * *'
   
   # Manuel olarak çalıştırma seçeneği
   workflow_dispatch:
