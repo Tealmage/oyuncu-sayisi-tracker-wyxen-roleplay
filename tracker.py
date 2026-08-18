@@ -58,6 +58,34 @@ def query_server_with_retry() -> Optional[Dict[str, Any]]:
     Returns:
         Dict: Sunucu ve oyuncu bilgileri veya None (başarısız olursa)
     """
+server_info = a2s.info(address, timeout=A2S_TIMEOUT)
+
+logger.info("===== A2S INFO RAW =====")
+logger.info(f"server_name: {server_info.server_name}")
+logger.info(f"map_name: {server_info.map_name}")
+logger.info(f"game: {server_info.game}")
+logger.info(f"player_count: {server_info.player_count}")
+logger.info(f"max_players: {server_info.max_players}")
+logger.info(f"protocol: {server_info.protocol}")
+logger.info(f"app_id: {server_info.app_id}")
+logger.info(f"server_type: {server_info.server_type}")
+logger.info(f"steam_id: {server_info.steam_id}")
+logger.info("========================")
+
+players = a2s.players(address, timeout=A2S_TIMEOUT)
+
+logger.info("===== A2S PLAYERS RAW =====")
+logger.info(f"players returned: {len(players)}")
+
+for player in players:
+    logger.info(
+        f"PLAYER: name={getattr(player, 'name', None)!r}, "
+        f"score={getattr(player, 'score', None)}, "
+        f"duration={getattr(player, 'duration', None)}"
+    )
+
+logger.info("===========================")
+    
     address = (SERVER_IP, SERVER_PORT)
     
     for attempt in range(1, MAX_RETRIES + 1):
