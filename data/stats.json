@@ -1,0 +1,23 @@
+{
+  "server": {
+    "ip": "185.213.240.239",
+    "port": 27015,
+    "name": null,
+    "map": null,
+    "game": null,
+    "online": false,
+    "players": null,
+    "max_players": null,
+    "last_query": null,
+    "last_successful_query": null
+  },
+  "players": {},
+  "metadata": {
+    "timezone": "Europe/Istanbul",
+    "polling_interval_minutes": 5,
+    "first_run": null,
+    "total_queries": 0,
+    "failed_queries": 0
+  },
+  "updated_at": null
+}
