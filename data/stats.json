@@ -2,22 +2,22 @@
   "server": {
     "ip": "185.213.240.239",
     "port": 27015,
-    "name": null,
-    "map": null,
-    "game": null,
-    "online": false,
-    "players": null,
-    "max_players": null,
-    "last_query": null,
-    "last_successful_query": null
+    "name": "[TR] Wyxen Roleplay v1.5 | discord.gg/wyxen",
+    "map": "wyx_map",
+    "game": "IX: DarkRP",
+    "online": true,
+    "players": 0,
+    "max_players": 128,
+    "last_query": "2026-08-18T03:21:28.971674",
+    "last_successful_query": "2026-08-18T03:21:28.971674"
   },
   "players": {},
   "metadata": {
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 0,
+    "total_queries": 1,
     "failed_queries": 0
   },
-  "updated_at": null
+  "updated_at": "2026-08-18T03:21:28.971674"
 }
