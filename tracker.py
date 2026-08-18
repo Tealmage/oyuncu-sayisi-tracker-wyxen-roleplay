@@ -70,6 +70,7 @@ def query_server_with_retry() -> Optional[Dict[str, Any]]:
             # Oyuncu listesini al
             try:
                 players = a2s.players(address, timeout=A2S_TIMEOUT)
+                logger.info(f"A2S_PLAYER query successful - returned {len(players)} players")
             except Exception as e:
                 logger.warning(f"A2S_PLAYER query failed: {e}")
                 players = []
@@ -77,6 +78,16 @@ def query_server_with_retry() -> Optional[Dict[str, Any]]:
             logger.info(f"Server: {server_info.server_name}")
             logger.info(f"Map: {server_info.map_name}")
             logger.info(f"Players: {server_info.player_count}/{server_info.max_players}")
+            logger.info(f"A2S_PLAYER returned: {len(players)} players")
+            
+            # UYARI: Eğer sunucuda oyuncu var ama A2S_PLAYER boş dönüyorsa
+            if server_info.player_count > 0 and len(players) == 0:
+                logger.warning("⚠️  SERVER SHOWS PLAYERS BUT A2S_PLAYER RETURNED EMPTY!")
+                logger.warning(f"⚠️  Server reports {server_info.player_count} players but A2S_PLAYER query returned 0")
+                logger.warning("⚠️  This is usually caused by:")
+                logger.warning("⚠️  1. Server firewall blocking A2S_PLAYER queries")
+                logger.warning("⚠️  2. Server config 'sv_visiblemaxplayers' hiding players")
+                logger.warning("⚠️  3. AntiDDoS protection blocking detailed queries")
             
             return {
                 "server_info": server_info,
