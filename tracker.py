@@ -492,7 +492,6 @@ for player in players:
         current_time.isoformat()
     )
 
-    return data
 
 
 def cleanup_old_stats(
