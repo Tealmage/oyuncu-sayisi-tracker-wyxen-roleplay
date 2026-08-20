@@ -343,44 +343,45 @@ def update_player_stats(
         current_time
     ).isoformat()
 
-online_player_ids = set()
+    online_player_ids = set()
 
-# Oyuncuları işle
-for player in players:
+    # Oyuncuları işle
+    for player in players:
 
-    player_id = get_player_identifier(player)
+        player_id = get_player_identifier(player)
 
-    if not player_id:
-        continue
+        if not player_id:
+            continue
 
-    online_player_ids.add(player_id)
+        online_player_ids.add(player_id)
 
-    player_name = getattr(
-        player,
-        "name",
-        "Unknown"
-    )
-
-    # Yeni oyuncu
-    if player_id not in data["players"]:
-        data["players"][player_id] = {
-            "name": player_name,
-            "name_history": [player_name],
-            "total_minutes": 0,
-            "first_seen": current_time.isoformat(),
-            "last_seen": current_time.isoformat(),
-            "sessions": [],
-            "current_session_start": current_time.isoformat(),
-            "weekly_stats": {},
-            "monthly_stats": {}
-        }
-
-        logger.info(
-            f"New player detected: {player_name}"
+        player_name = getattr(
+            player,
+            "name",
+            "Unknown"
         )
 
-    else:
-    
+        # Yeni oyuncu
+        if player_id not in data["players"]:
+
+            data["players"][player_id] = {
+                "name": player_name,
+                "name_history": [player_name],
+                "total_minutes": 0,
+                "first_seen": current_time.isoformat(),
+                "last_seen": current_time.isoformat(),
+                "sessions": [],
+                "current_session_start": current_time.isoformat(),
+                "weekly_stats": {},
+                "monthly_stats": {}
+            }
+
+            logger.info(
+                f"New player detected: {player_name}"
+            )
+
+        else:
+
             player_data = data["players"][player_id]
 
             # İsim değişikliği
@@ -492,6 +493,7 @@ for player in players:
         current_time.isoformat()
     )
 
+    return data
 
 
 def cleanup_old_stats(
