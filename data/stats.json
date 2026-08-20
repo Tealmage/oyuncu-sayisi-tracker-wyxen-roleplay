@@ -8,8 +8,8 @@
     "online": true,
     "players": 3,
     "max_players": 128,
-    "last_query": "2026-08-20T09:54:01.670860",
-    "last_successful_query": "2026-08-20T09:54:01.670860"
+    "last_query": "2026-08-20T14:54:35.948303",
+    "last_successful_query": "2026-08-20T14:54:35.948303"
   },
   "players": {
     "name:Tealmage": {
@@ -51,7 +51,7 @@
       "first_seen": "2026-08-18T08:05:47.216666",
       "last_seen": "2026-08-20T09:54:01.670860",
       "sessions": [],
-      "current_session_start": "2026-08-20T09:39:03.984266",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-17T00:00:00": 14.961443233333334
       },
@@ -66,7 +66,7 @@
       ],
       "total_minutes": 12.378959100000001,
       "first_seen": "2026-08-18T08:05:47.216666",
-      "last_seen": "2026-08-20T09:54:01.670860",
+      "last_seen": "2026-08-20T14:54:35.948303",
       "sessions": [],
       "current_session_start": "2026-08-20T09:50:17.504230",
       "weekly_stats": {
@@ -102,21 +102,112 @@
       "first_seen": "2026-08-20T09:54:01.670860",
       "last_seen": "2026-08-20T09:54:01.670860",
       "sessions": [],
-      "current_session_start": "2026-08-20T09:54:01.670860",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-17T00:00:00": 3.7361105
       },
       "monthly_stats": {
         "2026-08-01T00:00:00": 3.7361105
       }
+    },
+    "name:atlantik_PATATESİ": {
+      "name": "atlantik_PATATESİ",
+      "name_history": [
+        "atlantik_PATATESİ"
+      ],
+      "total_minutes": 0,
+      "first_seen": "2026-08-20T14:54:35.948303",
+      "last_seen": "2026-08-20T14:54:35.948303",
+      "sessions": [],
+      "current_session_start": "2026-08-20T14:54:35.948303",
+      "weekly_stats": {},
+      "monthly_stats": {}
+    },
+    "name:SUFYAN": {
+      "name": "SUFYAN",
+      "name_history": [
+        "SUFYAN"
+      ],
+      "total_minutes": 0,
+      "first_seen": "2026-08-20T14:54:35.948303",
+      "last_seen": "2026-08-20T14:54:35.948303",
+      "sessions": [],
+      "current_session_start": "2026-08-20T14:54:35.948303",
+      "weekly_stats": {},
+      "monthly_stats": {}
+    },
+    "name:Korrok": {
+      "name": "Korrok",
+      "name_history": [
+        "Korrok"
+      ],
+      "total_minutes": 0,
+      "first_seen": "2026-08-20T14:54:35.948303",
+      "last_seen": "2026-08-20T14:54:35.948303",
+      "sessions": [],
+      "current_session_start": "2026-08-20T14:54:35.948303",
+      "weekly_stats": {},
+      "monthly_stats": {}
+    },
+    "name:Ota": {
+      "name": "Ota",
+      "name_history": [
+        "Ota"
+      ],
+      "total_minutes": 0,
+      "first_seen": "2026-08-20T14:54:35.948303",
+      "last_seen": "2026-08-20T14:54:35.948303",
+      "sessions": [],
+      "current_session_start": "2026-08-20T14:54:35.948303",
+      "weekly_stats": {},
+      "monthly_stats": {}
+    },
+    "name:Big Boss": {
+      "name": "Big Boss",
+      "name_history": [
+        "Big Boss"
+      ],
+      "total_minutes": 0,
+      "first_seen": "2026-08-20T14:54:35.948303",
+      "last_seen": "2026-08-20T14:54:35.948303",
+      "sessions": [],
+      "current_session_start": "2026-08-20T14:54:35.948303",
+      "weekly_stats": {},
+      "monthly_stats": {}
+    },
+    "name:▶Lukas": {
+      "name": "▶Lukas",
+      "name_history": [
+        "▶Lukas"
+      ],
+      "total_minutes": 0,
+      "first_seen": "2026-08-20T14:54:35.948303",
+      "last_seen": "2026-08-20T14:54:35.948303",
+      "sessions": [],
+      "current_session_start": "2026-08-20T14:54:35.948303",
+      "weekly_stats": {},
+      "monthly_stats": {}
+    },
+    "name:Normalbiri": {
+      "name": "Normalbiri",
+      "name_history": [
+        "Normalbiri"
+      ],
+      "total_minutes": 0,
+      "first_seen": "2026-08-20T14:54:35.948303",
+      "last_seen": "2026-08-20T14:54:35.948303",
+      "sessions": [],
+      "current_session_start": "2026-08-20T14:54:35.948303",
+      "weekly_stats": {},
+      "monthly_stats": {}
     }
   },
   "metadata": {
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 9,
+    "total_queries": 10,
     "failed_queries": 0
   },
-  "updated_at": "2026-08-20T09:54:01.670860"
+  "updated_at": "2026-08-20T14:54:35.948303"
 }
