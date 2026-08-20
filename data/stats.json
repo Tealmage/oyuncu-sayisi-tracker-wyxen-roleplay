@@ -6,10 +6,10 @@
     "map": "wyx_map",
     "game": "IX: DarkRP",
     "online": true,
-    "players": 2,
+    "players": 1,
     "max_players": 128,
-    "last_query": "2026-08-20T07:59:18.141812",
-    "last_successful_query": "2026-08-20T07:59:18.141812"
+    "last_query": "2026-08-20T08:04:49.359658",
+    "last_successful_query": "2026-08-20T08:04:49.359658"
   },
   "players": {
     "name:Tealmage": {
@@ -34,7 +34,7 @@
       "first_seen": "2026-08-18T06:26:47.725160",
       "last_seen": "2026-08-20T07:59:18.141812",
       "sessions": [],
-      "current_session_start": "2026-08-18T06:26:47.725160",
+      "current_session_start": null,
       "weekly_stats": {},
       "monthly_stats": {}
     },
@@ -69,21 +69,25 @@
       "name_history": [
         "Eternal Life"
       ],
-      "total_minutes": 0,
+      "total_minutes": 5.520297433333334,
       "first_seen": "2026-08-20T07:59:18.141812",
-      "last_seen": "2026-08-20T07:59:18.141812",
+      "last_seen": "2026-08-20T08:04:49.359658",
       "sessions": [],
       "current_session_start": "2026-08-20T07:59:18.141812",
-      "weekly_stats": {},
-      "monthly_stats": {}
+      "weekly_stats": {
+        "2026-08-17T00:00:00": 5.520297433333334
+      },
+      "monthly_stats": {
+        "2026-08-01T00:00:00": 5.520297433333334
+      }
     }
   },
   "metadata": {
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 3,
+    "total_queries": 4,
     "failed_queries": 0
   },
-  "updated_at": "2026-08-20T07:59:18.141812"
+  "updated_at": "2026-08-20T08:04:49.359658"
 }
