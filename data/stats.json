@@ -6,10 +6,10 @@
     "map": "wyx_map",
     "game": "IX: DarkRP",
     "online": true,
-    "players": 3,
+    "players": 2,
     "max_players": 128,
-    "last_query": "2026-08-18T08:05:47.216666",
-    "last_successful_query": "2026-08-18T08:05:47.216666"
+    "last_query": "2026-08-20T07:59:18.141812",
+    "last_successful_query": "2026-08-20T07:59:18.141812"
   },
   "players": {
     "name:Tealmage": {
@@ -32,7 +32,7 @@
       ],
       "total_minutes": 0,
       "first_seen": "2026-08-18T06:26:47.725160",
-      "last_seen": "2026-08-18T08:05:47.216666",
+      "last_seen": "2026-08-20T07:59:18.141812",
       "sessions": [],
       "current_session_start": "2026-08-18T06:26:47.725160",
       "weekly_stats": {},
@@ -47,7 +47,7 @@
       "first_seen": "2026-08-18T08:05:47.216666",
       "last_seen": "2026-08-18T08:05:47.216666",
       "sessions": [],
-      "current_session_start": "2026-08-18T08:05:47.216666",
+      "current_session_start": null,
       "weekly_stats": {},
       "monthly_stats": {}
     },
@@ -60,7 +60,20 @@
       "first_seen": "2026-08-18T08:05:47.216666",
       "last_seen": "2026-08-18T08:05:47.216666",
       "sessions": [],
-      "current_session_start": "2026-08-18T08:05:47.216666",
+      "current_session_start": null,
+      "weekly_stats": {},
+      "monthly_stats": {}
+    },
+    "name:Eternal Life": {
+      "name": "Eternal Life",
+      "name_history": [
+        "Eternal Life"
+      ],
+      "total_minutes": 0,
+      "first_seen": "2026-08-20T07:59:18.141812",
+      "last_seen": "2026-08-20T07:59:18.141812",
+      "sessions": [],
+      "current_session_start": "2026-08-20T07:59:18.141812",
       "weekly_stats": {},
       "monthly_stats": {}
     }
@@ -69,8 +82,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 2,
+    "total_queries": 3,
     "failed_queries": 0
   },
-  "updated_at": "2026-08-18T08:05:47.216666"
+  "updated_at": "2026-08-20T07:59:18.141812"
 }
