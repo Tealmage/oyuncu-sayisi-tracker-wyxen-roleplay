@@ -326,7 +326,7 @@ def update_player_stats(
     data["server"]["map"] = server_info.map_name
     data["server"]["game"] = server_info.game
     data["server"]["online"] = True
-    data["server"]["players"] = server_info.player_count
+  data["server"]["players"] = len(online_player_ids)
     data["server"]["max_players"] = server_info.max_players
     data["server"]["last_query"] = current_time.isoformat()
     data["server"]["last_successful_query"] = current_time.isoformat()
