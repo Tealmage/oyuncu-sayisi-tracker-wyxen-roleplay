@@ -2,14 +2,14 @@
   "server": {
     "ip": "185.213.240.239",
     "port": 27015,
-    "name": "[TR] Wyxen Roleplay v1.5 | discord.gg/wyxen",
-    "map": "wyx_map",
+    "name": "[TR] Wyxen Roleplay V2 | discord.gg/wyxen",
+    "map": "wyxen-v2-map",
     "game": "IX: DarkRP",
-    "online": false,
+    "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-08-25T16:19:24.311903",
-    "last_successful_query": "2026-08-23T20:01:07.008797"
+    "last_query": "2026-08-25T17:50:00.494844",
+    "last_successful_query": "2026-08-25T17:50:00.494844"
   },
   "players": {
     "name:Tealmage": {
@@ -949,9 +949,9 @@
       ],
       "total_minutes": 0,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-08-23T20:01:07.008797",
+      "last_seen": "2026-08-25T17:50:00.494844",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-08-25T17:50:00.494844",
       "weekly_stats": {},
       "monthly_stats": {}
     },
@@ -1352,9 +1352,9 @@
       ],
       "total_minutes": 0,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-08-23T20:01:07.008797",
+      "last_seen": "2026-08-25T17:50:00.494844",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-08-25T17:50:00.494844",
       "weekly_stats": {},
       "monthly_stats": {}
     },
@@ -1469,9 +1469,9 @@
       ],
       "total_minutes": 0,
       "first_seen": "2026-08-20T21:00:08.838443",
-      "last_seen": "2026-08-22T22:52:43.183382",
+      "last_seen": "2026-08-25T17:50:00.494844",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-08-25T17:50:00.494844",
       "weekly_stats": {},
       "monthly_stats": {}
     },
@@ -1963,9 +1963,9 @@
       ],
       "total_minutes": 0,
       "first_seen": "2026-08-23T19:02:42.657972",
-      "last_seen": "2026-08-23T20:01:07.008797",
+      "last_seen": "2026-08-25T17:50:00.494844",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-08-25T17:50:00.494844",
       "weekly_stats": {},
       "monthly_stats": {}
     },
@@ -2052,8 +2052,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 105,
+    "total_queries": 106,
     "failed_queries": 28
   },
-  "updated_at": "2026-08-25T16:19:24.311903"
+  "updated_at": "2026-08-25T17:50:00.494844"
 }
