@@ -5,11 +5,11 @@
     "name": "[TR] Wyxen Roleplay V2 | discord.gg/wyxen",
     "map": "wyxen-v2-map",
     "game": "IX: DarkRP",
-    "online": false,
+    "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-08-29T20:28:44.145913",
-    "last_successful_query": "2026-08-29T20:17:21.241287"
+    "last_query": "2026-08-29T20:34:07.788747",
+    "last_successful_query": "2026-08-29T20:34:07.788747"
   },
   "players": {
     "name:Tealmage": {
@@ -279,9 +279,9 @@
       ],
       "total_minutes": 168.4570595,
       "first_seen": "2026-08-20T15:52:45.120862",
-      "last_seen": "2026-08-29T20:17:21.241287",
+      "last_seen": "2026-08-29T20:34:07.788747",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-08-29T20:34:07.788747",
       "weekly_stats": {
         "2026-08-24T00:00:00": 168.4570595
       },
@@ -595,9 +595,9 @@
       ],
       "total_minutes": 140.0124097,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-08-29T00:14:06.900638",
+      "last_seen": "2026-08-29T20:34:07.788747",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-08-29T20:34:07.788747",
       "weekly_stats": {
         "2026-08-24T00:00:00": 140.0124097
       },
@@ -1118,9 +1118,9 @@
       ],
       "total_minutes": 28.15952236666667,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-08-29T20:17:21.241287",
+      "last_seen": "2026-08-29T20:34:07.788747",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-08-29T20:34:07.788747",
       "weekly_stats": {
         "2026-08-24T00:00:00": 28.15952236666667
       },
@@ -2133,9 +2133,9 @@
       ],
       "total_minutes": 12.80860515,
       "first_seen": "2026-08-28T21:54:06.156056",
-      "last_seen": "2026-08-29T20:17:21.241287",
+      "last_seen": "2026-08-29T20:34:07.788747",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-08-29T20:34:07.788747",
       "weekly_stats": {
         "2026-08-24T00:00:00": 12.80860515
       },
@@ -2148,8 +2148,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 361,
+    "total_queries": 362,
     "failed_queries": 41
   },
-  "updated_at": "2026-08-29T20:28:44.145913"
+  "updated_at": "2026-08-29T20:34:07.788747"
 }
