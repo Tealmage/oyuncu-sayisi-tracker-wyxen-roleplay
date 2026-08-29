@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-08-29T19:49:11.669945",
-    "last_successful_query": "2026-08-29T19:49:11.669945"
+    "last_query": "2026-08-29T19:54:44.634799",
+    "last_successful_query": "2026-08-29T19:54:44.634799"
   },
   "players": {
     "name:Tealmage": {
@@ -1116,13 +1116,17 @@
       "name_history": [
         "Destroner"
       ],
-      "total_minutes": 0,
+      "total_minutes": 5.549414233333334,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-08-25T20:03:34.969992",
+      "last_seen": "2026-08-29T19:54:44.634799",
       "sessions": [],
-      "current_session_start": null,
-      "weekly_stats": {},
-      "monthly_stats": {}
+      "current_session_start": "2026-08-29T19:54:44.634799",
+      "weekly_stats": {
+        "2026-08-24T00:00:00": 5.549414233333334
+      },
+      "monthly_stats": {
+        "2026-08-01T00:00:00": 5.549414233333334
+      }
     },
     "name:thoug": {
       "name": "thoug",
@@ -2144,8 +2148,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 354,
+    "total_queries": 355,
     "failed_queries": 39
   },
-  "updated_at": "2026-08-29T19:49:11.669945"
+  "updated_at": "2026-08-29T19:54:44.634799"
 }
