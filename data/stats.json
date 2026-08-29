@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-08-29T20:00:05.298189",
-    "last_successful_query": "2026-08-29T20:00:05.298189"
+    "last_query": "2026-08-29T20:05:49.456870",
+    "last_successful_query": "2026-08-29T20:05:49.456870"
   },
   "players": {
     "name:Tealmage": {
@@ -277,16 +277,16 @@
       "name_history": [
         "YellowIce"
       ],
-      "total_minutes": 151.19134119999998,
+      "total_minutes": 156.92731921666666,
       "first_seen": "2026-08-20T15:52:45.120862",
-      "last_seen": "2026-08-29T20:00:05.298189",
+      "last_seen": "2026-08-29T20:05:49.456870",
       "sessions": [],
       "current_session_start": "2026-08-29T20:00:05.298189",
       "weekly_stats": {
-        "2026-08-24T00:00:00": 151.19134119999998
+        "2026-08-24T00:00:00": 156.92731921666666
       },
       "monthly_stats": {
-        "2026-08-01T00:00:00": 151.19134119999998
+        "2026-08-01T00:00:00": 156.92731921666666
       }
     },
     "name:mami": {
@@ -1116,16 +1116,16 @@
       "name_history": [
         "Destroner"
       ],
-      "total_minutes": 10.893804066666668,
+      "total_minutes": 16.629782083333335,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-08-29T20:00:05.298189",
+      "last_seen": "2026-08-29T20:05:49.456870",
       "sessions": [],
       "current_session_start": "2026-08-29T19:54:44.634799",
       "weekly_stats": {
-        "2026-08-24T00:00:00": 10.893804066666668
+        "2026-08-24T00:00:00": 16.629782083333335
       },
       "monthly_stats": {
-        "2026-08-01T00:00:00": 10.893804066666668
+        "2026-08-01T00:00:00": 16.629782083333335
       }
     },
     "name:thoug": {
@@ -2148,8 +2148,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 356,
+    "total_queries": 357,
     "failed_queries": 39
   },
-  "updated_at": "2026-08-29T20:00:05.298189"
+  "updated_at": "2026-08-29T20:05:49.456870"
 }
