@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-08-30T15:43:24.601976",
-    "last_successful_query": "2026-08-30T15:43:24.601976"
+    "last_query": "2026-08-30T15:49:00.295538",
+    "last_successful_query": "2026-08-30T15:49:00.295538"
   },
   "players": {
     "name:Tealmage": {
@@ -1284,16 +1284,16 @@
       "name_history": [
         "QuetzalCOADL"
       ],
-      "total_minutes": 148.06427498333338,
+      "total_minutes": 153.65916768333338,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-08-30T15:43:24.601976",
+      "last_seen": "2026-08-30T15:49:00.295538",
       "sessions": [],
       "current_session_start": "2026-08-30T14:57:11.895476",
       "weekly_stats": {
-        "2026-08-24T00:00:00": 148.06427498333338
+        "2026-08-24T00:00:00": 153.65916768333338
       },
       "monthly_stats": {
-        "2026-08-01T00:00:00": 148.06427498333338
+        "2026-08-01T00:00:00": 153.65916768333338
       }
     },
     "name:2kspex": {
@@ -1685,16 +1685,16 @@
       "name_history": [
         "KariooS"
       ],
-      "total_minutes": 347.53085825000005,
+      "total_minutes": 353.12575095000005,
       "first_seen": "2026-08-21T19:16:44.014250",
-      "last_seen": "2026-08-30T15:43:24.601976",
+      "last_seen": "2026-08-30T15:49:00.295538",
       "sessions": [],
       "current_session_start": "2026-08-30T15:20:17.458739",
       "weekly_stats": {
-        "2026-08-24T00:00:00": 347.53085825000005
+        "2026-08-24T00:00:00": 353.12575095000005
       },
       "monthly_stats": {
-        "2026-08-01T00:00:00": 347.53085825000005
+        "2026-08-01T00:00:00": 353.12575095000005
       }
     },
     "name:JanAhrem": {
@@ -2156,8 +2156,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 564,
+    "total_queries": 565,
     "failed_queries": 42
   },
-  "updated_at": "2026-08-30T15:43:24.601976"
+  "updated_at": "2026-08-30T15:49:00.295538"
 }
