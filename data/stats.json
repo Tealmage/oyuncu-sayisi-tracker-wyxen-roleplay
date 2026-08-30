@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-08-30T16:34:33.713449",
-    "last_successful_query": "2026-08-30T16:34:33.713449"
+    "last_query": "2026-08-30T16:40:10.278024",
+    "last_successful_query": "2026-08-30T16:40:10.278024"
   },
   "players": {
     "name:Tealmage": {
@@ -1284,16 +1284,16 @@
       "name_history": [
         "QuetzalCOADL"
       ],
-      "total_minutes": 199.21613286666673,
+      "total_minutes": 204.82554245000006,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-08-30T16:34:33.713449",
+      "last_seen": "2026-08-30T16:40:10.278024",
       "sessions": [],
       "current_session_start": "2026-08-30T14:57:11.895476",
       "weekly_stats": {
-        "2026-08-24T00:00:00": 199.21613286666673
+        "2026-08-24T00:00:00": 204.82554245000006
       },
       "monthly_stats": {
-        "2026-08-01T00:00:00": 199.21613286666673
+        "2026-08-01T00:00:00": 204.82554245000006
       }
     },
     "name:2kspex": {
@@ -1685,16 +1685,16 @@
       "name_history": [
         "KariooS"
       ],
-      "total_minutes": 398.68271613333343,
+      "total_minutes": 404.29212571666676,
       "first_seen": "2026-08-21T19:16:44.014250",
-      "last_seen": "2026-08-30T16:34:33.713449",
+      "last_seen": "2026-08-30T16:40:10.278024",
       "sessions": [],
       "current_session_start": "2026-08-30T15:20:17.458739",
       "weekly_stats": {
-        "2026-08-24T00:00:00": 398.68271613333343
+        "2026-08-24T00:00:00": 404.29212571666676
       },
       "monthly_stats": {
-        "2026-08-01T00:00:00": 398.68271613333343
+        "2026-08-01T00:00:00": 404.29212571666676
       }
     },
     "name:JanAhrem": {
@@ -2156,8 +2156,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 573,
+    "total_queries": 574,
     "failed_queries": 42
   },
-  "updated_at": "2026-08-30T16:34:33.713449"
+  "updated_at": "2026-08-30T16:40:10.278024"
 }
