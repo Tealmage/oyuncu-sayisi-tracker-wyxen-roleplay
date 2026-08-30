@@ -5,11 +5,11 @@
     "name": "[TR] Wyxen Roleplay V2 | discord.gg/wyxen",
     "map": "wyxen-v2-map",
     "game": "IX: DarkRP",
-    "online": false,
+    "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-08-30T21:21:02.289147",
-    "last_successful_query": "2026-08-30T21:09:16.331946"
+    "last_query": "2026-08-30T21:26:13.621581",
+    "last_successful_query": "2026-08-30T21:26:13.621581"
   },
   "players": {
     "name:Tealmage": {
@@ -279,9 +279,9 @@
       ],
       "total_minutes": 353.4379469000002,
       "first_seen": "2026-08-20T15:52:45.120862",
-      "last_seen": "2026-08-30T21:09:16.331946",
+      "last_seen": "2026-08-30T21:26:13.621581",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-08-30T21:26:13.621581",
       "weekly_stats": {
         "2026-08-24T00:00:00": 353.4379469000002
       },
@@ -1126,9 +1126,9 @@
       ],
       "total_minutes": 240.38525176666664,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-08-30T21:09:16.331946",
+      "last_seen": "2026-08-30T21:26:13.621581",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-08-30T21:26:13.621581",
       "weekly_stats": {
         "2026-08-24T00:00:00": 240.38525176666664
       },
@@ -2156,8 +2156,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 624,
+    "total_queries": 625,
     "failed_queries": 44
   },
-  "updated_at": "2026-08-30T21:21:02.289147"
+  "updated_at": "2026-08-30T21:26:13.621581"
 }
