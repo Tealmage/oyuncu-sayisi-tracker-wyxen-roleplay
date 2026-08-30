@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-08-30T23:06:59.775090",
-    "last_successful_query": "2026-08-30T23:06:59.775090"
+    "last_query": "2026-08-30T23:12:44.420090",
+    "last_successful_query": "2026-08-30T23:12:44.420090"
   },
   "players": {
     "name:Tealmage": {
@@ -21,7 +21,7 @@
       "first_seen": "2026-08-18T06:26:47.725160",
       "last_seen": "2026-08-30T23:06:59.775090",
       "sessions": [],
-      "current_session_start": "2026-08-30T21:31:46.693631",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-17T00:00:00": 2.5824841333333333,
         "2026-08-24T00:00:00": 352.9930165666667
@@ -593,16 +593,16 @@
       "name_history": [
         "Sugie"
       ],
-      "total_minutes": 402.68681120000014,
+      "total_minutes": 408.43089453333346,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-08-30T23:06:59.775090",
+      "last_seen": "2026-08-30T23:12:44.420090",
       "sessions": [],
       "current_session_start": "2026-08-30T21:49:04.791658",
       "weekly_stats": {
-        "2026-08-24T00:00:00": 402.68681120000014
+        "2026-08-24T00:00:00": 408.43089453333346
       },
       "monthly_stats": {
-        "2026-08-01T00:00:00": 402.68681120000014
+        "2026-08-01T00:00:00": 408.43089453333346
       }
     },
     "name:Scorfit ♡": {
@@ -964,7 +964,7 @@
       "first_seen": "2026-08-20T18:01:46.547388",
       "last_seen": "2026-08-30T23:06:59.775090",
       "sessions": [],
-      "current_session_start": "2026-08-30T22:22:08.708794",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-24T00:00:00": 50.45376468333333
       },
@@ -2160,8 +2160,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 643,
+    "total_queries": 644,
     "failed_queries": 44
   },
-  "updated_at": "2026-08-30T23:06:59.775090"
+  "updated_at": "2026-08-30T23:12:44.420090"
 }
