@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-08-30T20:07:30.102790",
-    "last_successful_query": "2026-08-30T20:07:30.102790"
+    "last_query": "2026-08-30T20:13:18.888597",
+    "last_successful_query": "2026-08-30T20:13:18.888597"
   },
   "players": {
     "name:Tealmage": {
@@ -99,17 +99,17 @@
       "name_history": [
         "Clementias"
       ],
-      "total_minutes": 60.98039163333333,
+      "total_minutes": 66.79348841666666,
       "first_seen": "2026-08-20T09:54:01.670860",
-      "last_seen": "2026-08-28T22:51:20.812924",
+      "last_seen": "2026-08-30T20:13:18.888597",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-08-30T20:13:18.888597",
       "weekly_stats": {
         "2026-08-17T00:00:00": 3.7361105,
-        "2026-08-24T00:00:00": 57.24428113333334
+        "2026-08-24T00:00:00": 63.057377916666674
       },
       "monthly_stats": {
-        "2026-08-01T00:00:00": 60.98039163333333
+        "2026-08-01T00:00:00": 66.79348841666666
       }
     },
     "name:atlantik_PATATESİ": {
@@ -117,16 +117,16 @@
       "name_history": [
         "atlantik_PATATESİ"
       ],
-      "total_minutes": 229.34971491666667,
+      "total_minutes": 235.1628117,
       "first_seen": "2026-08-20T14:54:35.948303",
-      "last_seen": "2026-08-30T20:07:30.102790",
+      "last_seen": "2026-08-30T20:13:18.888597",
       "sessions": [],
       "current_session_start": "2026-08-30T20:07:30.102790",
       "weekly_stats": {
-        "2026-08-24T00:00:00": 229.34971491666667
+        "2026-08-24T00:00:00": 235.1628117
       },
       "monthly_stats": {
-        "2026-08-01T00:00:00": 229.34971491666667
+        "2026-08-01T00:00:00": 235.1628117
       }
     },
     "name:SUFYAN": {
@@ -277,16 +277,16 @@
       "name_history": [
         "YellowIce"
       ],
-      "total_minutes": 297.20548905000015,
+      "total_minutes": 303.0185858333335,
       "first_seen": "2026-08-20T15:52:45.120862",
-      "last_seen": "2026-08-30T20:07:30.102790",
+      "last_seen": "2026-08-30T20:13:18.888597",
       "sessions": [],
       "current_session_start": "2026-08-30T20:01:37.839896",
       "weekly_stats": {
-        "2026-08-24T00:00:00": 297.20548905000015
+        "2026-08-24T00:00:00": 303.0185858333335
       },
       "monthly_stats": {
-        "2026-08-01T00:00:00": 297.20548905000015
+        "2026-08-01T00:00:00": 303.0185858333335
       }
     },
     "name:mami": {
@@ -1685,16 +1685,16 @@
       "name_history": [
         "KariooS"
       ],
-      "total_minutes": 415.7519527833334,
+      "total_minutes": 421.56504956666674,
       "first_seen": "2026-08-21T19:16:44.014250",
-      "last_seen": "2026-08-30T20:07:30.102790",
+      "last_seen": "2026-08-30T20:13:18.888597",
       "sessions": [],
       "current_session_start": "2026-08-30T20:07:30.102790",
       "weekly_stats": {
-        "2026-08-24T00:00:00": 415.7519527833334
+        "2026-08-24T00:00:00": 421.56504956666674
       },
       "monthly_stats": {
-        "2026-08-01T00:00:00": 415.7519527833334
+        "2026-08-01T00:00:00": 421.56504956666674
       }
     },
     "name:JanAhrem": {
@@ -2156,8 +2156,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 611,
+    "total_queries": 612,
     "failed_queries": 42
   },
-  "updated_at": "2026-08-30T20:07:30.102790"
+  "updated_at": "2026-08-30T20:13:18.888597"
 }
