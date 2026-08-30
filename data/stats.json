@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-08-30T15:20:17.458739",
-    "last_successful_query": "2026-08-30T15:20:17.458739"
+    "last_query": "2026-08-30T15:25:55.685371",
+    "last_successful_query": "2026-08-30T15:25:55.685371"
   },
   "players": {
     "name:Tealmage": {
@@ -1284,16 +1284,16 @@
       "name_history": [
         "QuetzalCOADL"
       ],
-      "total_minutes": 124.94522103333334,
+      "total_minutes": 130.58233156666668,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-08-30T15:20:17.458739",
+      "last_seen": "2026-08-30T15:25:55.685371",
       "sessions": [],
       "current_session_start": "2026-08-30T14:57:11.895476",
       "weekly_stats": {
-        "2026-08-24T00:00:00": 124.94522103333334
+        "2026-08-24T00:00:00": 130.58233156666668
       },
       "monthly_stats": {
-        "2026-08-01T00:00:00": 124.94522103333334
+        "2026-08-01T00:00:00": 130.58233156666668
       }
     },
     "name:2kspex": {
@@ -1685,16 +1685,16 @@
       "name_history": [
         "KariooS"
       ],
-      "total_minutes": 324.4118043000001,
+      "total_minutes": 330.0489148333334,
       "first_seen": "2026-08-21T19:16:44.014250",
-      "last_seen": "2026-08-30T15:20:17.458739",
+      "last_seen": "2026-08-30T15:25:55.685371",
       "sessions": [],
       "current_session_start": "2026-08-30T15:20:17.458739",
       "weekly_stats": {
-        "2026-08-24T00:00:00": 324.4118043000001
+        "2026-08-24T00:00:00": 330.0489148333334
       },
       "monthly_stats": {
-        "2026-08-01T00:00:00": 324.4118043000001
+        "2026-08-01T00:00:00": 330.0489148333334
       }
     },
     "name:JanAhrem": {
@@ -2156,8 +2156,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 560,
+    "total_queries": 561,
     "failed_queries": 42
   },
-  "updated_at": "2026-08-30T15:20:17.458739"
+  "updated_at": "2026-08-30T15:25:55.685371"
 }
