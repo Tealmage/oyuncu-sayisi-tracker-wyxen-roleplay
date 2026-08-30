@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-08-30T19:55:50.114535",
-    "last_successful_query": "2026-08-30T19:55:50.114535"
+    "last_query": "2026-08-30T20:01:37.839896",
+    "last_successful_query": "2026-08-30T20:01:37.839896"
   },
   "players": {
     "name:Tealmage": {
@@ -277,16 +277,16 @@
       "name_history": [
         "YellowIce"
       ],
-      "total_minutes": 285.53901813333346,
+      "total_minutes": 291.3344408166668,
       "first_seen": "2026-08-20T15:52:45.120862",
-      "last_seen": "2026-08-29T22:48:25.481891",
+      "last_seen": "2026-08-30T20:01:37.839896",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-08-30T20:01:37.839896",
       "weekly_stats": {
-        "2026-08-24T00:00:00": 285.53901813333346
+        "2026-08-24T00:00:00": 291.3344408166668
       },
       "monthly_stats": {
-        "2026-08-01T00:00:00": 285.53901813333346
+        "2026-08-01T00:00:00": 291.3344408166668
       }
     },
     "name:mami": {
@@ -2156,8 +2156,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 609,
+    "total_queries": 610,
     "failed_queries": 42
   },
-  "updated_at": "2026-08-30T19:55:50.114535"
+  "updated_at": "2026-08-30T20:01:37.839896"
 }
