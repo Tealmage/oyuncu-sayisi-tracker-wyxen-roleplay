@@ -5,10 +5,10 @@
     "name": "[TR] Wyxen Roleplay V2 | discord.gg/wyxen",
     "map": "wyxen-v2-map",
     "game": "IX: DarkRP",
-    "online": true,
+    "online": false,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-08-30T21:09:16.331946",
+    "last_query": "2026-08-30T21:15:13.226418",
     "last_successful_query": "2026-08-30T21:09:16.331946"
   },
   "players": {
@@ -21,7 +21,7 @@
       "first_seen": "2026-08-18T06:26:47.725160",
       "last_seen": "2026-08-30T21:09:16.331946",
       "sessions": [],
-      "current_session_start": "2026-08-30T20:46:51.716283",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-17T00:00:00": 2.5824841333333333,
         "2026-08-24T00:00:00": 252.2237914166667
@@ -103,7 +103,7 @@
       "first_seen": "2026-08-20T09:54:01.670860",
       "last_seen": "2026-08-30T21:09:16.331946",
       "sessions": [],
-      "current_session_start": "2026-08-30T20:13:18.888597",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-17T00:00:00": 3.7361105,
         "2026-08-24T00:00:00": 119.01476706666668
@@ -121,7 +121,7 @@
       "first_seen": "2026-08-20T14:54:35.948303",
       "last_seen": "2026-08-30T21:09:16.331946",
       "sessions": [],
-      "current_session_start": "2026-08-30T20:07:30.102790",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-24T00:00:00": 291.12020085
       },
@@ -281,7 +281,7 @@
       "first_seen": "2026-08-20T15:52:45.120862",
       "last_seen": "2026-08-30T21:09:16.331946",
       "sessions": [],
-      "current_session_start": "2026-08-30T20:57:46.502499",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-24T00:00:00": 353.4379469000002
       },
@@ -597,7 +597,7 @@
       "first_seen": "2026-08-20T18:01:46.547388",
       "last_seen": "2026-08-30T21:09:16.331946",
       "sessions": [],
-      "current_session_start": "2026-08-30T20:29:54.431568",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-24T00:00:00": 307.50970260000014
       },
@@ -735,7 +735,7 @@
       "first_seen": "2026-08-20T18:01:46.547388",
       "last_seen": "2026-08-30T21:09:16.331946",
       "sessions": [],
-      "current_session_start": "2026-08-30T20:24:35.548188",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-24T00:00:00": 107.61292431666668
       },
@@ -1128,7 +1128,7 @@
       "first_seen": "2026-08-20T19:46:08.585799",
       "last_seen": "2026-08-30T21:09:16.331946",
       "sessions": [],
-      "current_session_start": "2026-08-30T20:18:54.213355",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-24T00:00:00": 240.38525176666664
       },
@@ -1689,7 +1689,7 @@
       "first_seen": "2026-08-21T19:16:44.014250",
       "last_seen": "2026-08-30T21:09:16.331946",
       "sessions": [],
-      "current_session_start": "2026-08-30T20:07:30.102790",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-24T00:00:00": 477.52243871666684
       },
@@ -2156,8 +2156,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 622,
-    "failed_queries": 42
+    "total_queries": 623,
+    "failed_queries": 43
   },
-  "updated_at": "2026-08-30T21:09:16.331946"
+  "updated_at": "2026-08-30T21:15:13.226418"
 }
