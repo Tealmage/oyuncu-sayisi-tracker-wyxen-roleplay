@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-08-31T12:19:04.913260",
-    "last_successful_query": "2026-08-31T12:19:04.913260"
+    "last_query": "2026-08-31T12:24:50.577204",
+    "last_successful_query": "2026-08-31T12:24:50.577204"
   },
   "players": {
     "name:Tealmage": {
@@ -1440,17 +1440,17 @@
       "name_history": [
         "Ryguy"
       ],
-      "total_minutes": 145.53329193333335,
+      "total_minutes": 151.29435766666668,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-08-31T12:19:04.913260",
+      "last_seen": "2026-08-31T12:24:50.577204",
       "sessions": [],
       "current_session_start": "2026-08-31T12:19:04.913260",
       "weekly_stats": {
         "2026-08-24T00:00:00": 140.0124097,
-        "2026-08-31T00:00:00": 5.520882233333333
+        "2026-08-31T00:00:00": 11.281947966666667
       },
       "monthly_stats": {
-        "2026-08-01T00:00:00": 145.53329193333335
+        "2026-08-01T00:00:00": 151.29435766666668
       }
     },
     "name:Mati": {
@@ -2163,8 +2163,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 780,
+    "total_queries": 781,
     "failed_queries": 44
   },
-  "updated_at": "2026-08-31T12:19:04.913260"
+  "updated_at": "2026-08-31T12:24:50.577204"
 }
