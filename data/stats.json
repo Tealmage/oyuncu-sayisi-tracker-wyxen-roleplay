@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-08-31T18:08:43.435524",
-    "last_successful_query": "2026-08-31T18:08:43.435524"
+    "last_query": "2026-08-31T18:14:25.262748",
+    "last_successful_query": "2026-08-31T18:14:25.262748"
   },
   "players": {
     "name:Tealmage": {
@@ -777,13 +777,17 @@
       "name_history": [
         "Jraithh"
       ],
-      "total_minutes": 0,
+      "total_minutes": 5.6971204,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-08-25T20:03:34.969992",
+      "last_seen": "2026-08-31T18:14:25.262748",
       "sessions": [],
-      "current_session_start": null,
-      "weekly_stats": {},
-      "monthly_stats": {}
+      "current_session_start": "2026-08-31T18:14:25.262748",
+      "weekly_stats": {
+        "2026-08-31T00:00:00": 5.6971204
+      },
+      "monthly_stats": {
+        "2026-08-01T00:00:00": 5.6971204
+      }
     },
     "name:Batuhan": {
       "name": "Batuhan",
@@ -1693,17 +1697,17 @@
       "name_history": [
         "KariooS"
       ],
-      "total_minutes": 506.3755443500002,
+      "total_minutes": 512.0726647500002,
       "first_seen": "2026-08-21T19:16:44.014250",
-      "last_seen": "2026-08-31T16:31:10.189687",
+      "last_seen": "2026-08-31T18:14:25.262748",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-08-31T18:14:25.262748",
       "weekly_stats": {
         "2026-08-24T00:00:00": 477.52243871666684,
-        "2026-08-31T00:00:00": 28.853105633333332
+        "2026-08-31T00:00:00": 34.55022603333333
       },
       "monthly_stats": {
-        "2026-08-01T00:00:00": 506.3755443500002
+        "2026-08-01T00:00:00": 512.0726647500002
       }
     },
     "name:JanAhrem": {
@@ -2166,8 +2170,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 841,
+    "total_queries": 842,
     "failed_queries": 50
   },
-  "updated_at": "2026-08-31T18:08:43.435524"
+  "updated_at": "2026-08-31T18:14:25.262748"
 }
