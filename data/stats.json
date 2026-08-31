@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-08-31T16:53:51.051479",
-    "last_successful_query": "2026-08-31T16:53:51.051479"
+    "last_query": "2026-08-31T16:59:45.305760",
+    "last_successful_query": "2026-08-31T16:59:45.305760"
   },
   "players": {
     "name:Tealmage": {
@@ -117,17 +117,17 @@
       "name_history": [
         "atlantik_PATATESİ"
       ],
-      "total_minutes": 369.55651636666664,
+      "total_minutes": 375.4607543833333,
       "first_seen": "2026-08-20T14:54:35.948303",
-      "last_seen": "2026-08-31T16:53:51.051479",
+      "last_seen": "2026-08-31T16:59:45.305760",
       "sessions": [],
       "current_session_start": "2026-08-31T16:48:10.733185",
       "weekly_stats": {
         "2026-08-24T00:00:00": 358.12668926666663,
-        "2026-08-31T00:00:00": 11.4298271
+        "2026-08-31T00:00:00": 17.334065116666668
       },
       "monthly_stats": {
-        "2026-08-01T00:00:00": 369.55651636666664
+        "2026-08-01T00:00:00": 375.4607543833333
       }
     },
     "name:SUFYAN": {
@@ -2166,8 +2166,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 828,
+    "total_queries": 829,
     "failed_queries": 44
   },
-  "updated_at": "2026-08-31T16:53:51.051479"
+  "updated_at": "2026-08-31T16:59:45.305760"
 }
