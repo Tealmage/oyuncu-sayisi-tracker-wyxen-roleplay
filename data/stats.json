@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-08-31T22:57:22.298783",
-    "last_successful_query": "2026-08-31T22:57:22.298783"
+    "last_query": "2026-08-31T23:07:56.463069",
+    "last_successful_query": "2026-08-31T23:07:56.463069"
   },
   "players": {
     "name:Tealmage": {
@@ -120,7 +120,7 @@
       ],
       "total_minutes": 635.5622845999999,
       "first_seen": "2026-08-20T14:54:35.948303",
-      "last_seen": "2026-08-31T22:57:22.298783",
+      "last_seen": "2026-08-31T23:07:56.463069",
       "sessions": [],
       "current_session_start": "2026-08-31T19:06:03.332680",
       "weekly_stats": {
@@ -281,7 +281,7 @@
       ],
       "total_minutes": 629.0049390500001,
       "first_seen": "2026-08-20T15:52:45.120862",
-      "last_seen": "2026-08-31T22:57:22.298783",
+      "last_seen": "2026-08-31T23:07:56.463069",
       "sessions": [],
       "current_session_start": "2026-08-31T19:45:24.445688",
       "weekly_stats": {
@@ -598,7 +598,7 @@
       ],
       "total_minutes": 582.7809053833336,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-08-31T22:57:22.298783",
+      "last_seen": "2026-08-31T23:07:56.463069",
       "sessions": [],
       "current_session_start": "2026-08-31T20:30:52.665435",
       "weekly_stats": {
@@ -995,7 +995,7 @@
       ],
       "total_minutes": 376.86666385,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-08-31T22:57:22.298783",
+      "last_seen": "2026-08-31T23:07:56.463069",
       "sessions": [],
       "current_session_start": "2026-08-31T18:31:56.063849",
       "weekly_stats": {
@@ -1147,7 +1147,7 @@
       ],
       "total_minutes": 568.2342997166667,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-08-31T22:57:22.298783",
+      "last_seen": "2026-08-31T23:07:56.463069",
       "sessions": [],
       "current_session_start": "2026-08-31T18:20:22.629658",
       "weekly_stats": {
@@ -2197,8 +2197,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 892,
+    "total_queries": 893,
     "failed_queries": 50
   },
-  "updated_at": "2026-08-31T22:57:22.298783"
+  "updated_at": "2026-08-31T23:07:56.463069"
 }
