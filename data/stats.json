@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-08-31T10:45:27.914391",
-    "last_successful_query": "2026-08-31T10:45:27.914391"
+    "last_query": "2026-08-31T10:51:04.119558",
+    "last_successful_query": "2026-08-31T10:51:04.119558"
   },
   "players": {
     "name:Tealmage": {
@@ -2126,17 +2126,17 @@
       "name_history": [
         "babanı dövim"
       ],
-      "total_minutes": 329.7669586000001,
+      "total_minutes": 335.3703780500001,
       "first_seen": "2026-08-28T21:54:06.156056",
-      "last_seen": "2026-08-31T10:45:27.914391",
+      "last_seen": "2026-08-31T10:51:04.119558",
       "sessions": [],
       "current_session_start": "2026-08-31T10:45:27.914391",
       "weekly_stats": {
         "2026-08-24T00:00:00": 323.98333061666676,
-        "2026-08-31T00:00:00": 5.783627983333333
+        "2026-08-31T00:00:00": 11.387047433333333
       },
       "monthly_stats": {
-        "2026-08-01T00:00:00": 329.7669586000001
+        "2026-08-01T00:00:00": 335.3703780500001
       }
     },
     "name:Pingus": {
@@ -2161,8 +2161,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 764,
+    "total_queries": 765,
     "failed_queries": 44
   },
-  "updated_at": "2026-08-31T10:45:27.914391"
+  "updated_at": "2026-08-31T10:51:04.119558"
 }
