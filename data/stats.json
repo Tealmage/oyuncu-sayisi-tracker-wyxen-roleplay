@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-08-31T16:02:19.003349",
-    "last_successful_query": "2026-08-31T16:02:19.003349"
+    "last_query": "2026-08-31T16:08:11.619967",
+    "last_successful_query": "2026-08-31T16:08:11.619967"
   },
   "players": {
     "name:Tealmage": {
@@ -636,16 +636,17 @@
       "name_history": [
         "Zarukma"
       ],
-      "total_minutes": 133.68841681666663,
+      "total_minutes": 139.56536044999996,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-08-29T23:27:19.526399",
+      "last_seen": "2026-08-31T16:08:11.619967",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-08-31T16:08:11.619967",
       "weekly_stats": {
-        "2026-08-24T00:00:00": 133.68841681666663
+        "2026-08-24T00:00:00": 133.68841681666663,
+        "2026-08-31T00:00:00": 5.876943633333334
       },
       "monthly_stats": {
-        "2026-08-01T00:00:00": 133.68841681666663
+        "2026-08-01T00:00:00": 139.56536044999996
       }
     },
     "name:Shiroiles": {
@@ -1691,16 +1692,17 @@
       "name_history": [
         "KariooS"
       ],
-      "total_minutes": 477.52243871666684,
+      "total_minutes": 483.39938235000017,
       "first_seen": "2026-08-21T19:16:44.014250",
-      "last_seen": "2026-08-30T21:09:16.331946",
+      "last_seen": "2026-08-31T16:08:11.619967",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-08-31T16:08:11.619967",
       "weekly_stats": {
-        "2026-08-24T00:00:00": 477.52243871666684
+        "2026-08-24T00:00:00": 477.52243871666684,
+        "2026-08-31T00:00:00": 5.876943633333334
       },
       "monthly_stats": {
-        "2026-08-01T00:00:00": 477.52243871666684
+        "2026-08-01T00:00:00": 483.39938235000017
       }
     },
     "name:JanAhrem": {
@@ -2163,8 +2165,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 819,
+    "total_queries": 820,
     "failed_queries": 44
   },
-  "updated_at": "2026-08-31T16:02:19.003349"
+  "updated_at": "2026-08-31T16:08:11.619967"
 }
