@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-08-31T11:14:55.867738",
-    "last_successful_query": "2026-08-31T11:14:55.867738"
+    "last_query": "2026-08-31T11:21:06.167608",
+    "last_successful_query": "2026-08-31T11:21:06.167608"
   },
   "players": {
     "name:Tealmage": {
@@ -731,17 +731,17 @@
       "name_history": [
         "CamperOzan"
       ],
-      "total_minutes": 187.33136681666664,
+      "total_minutes": 193.50303131666664,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-08-31T11:14:55.867738",
+      "last_seen": "2026-08-31T11:21:06.167608",
       "sessions": [],
       "current_session_start": "2026-08-31T10:56:50.015909",
       "weekly_stats": {
         "2026-08-24T00:00:00": 163.46889714999998,
-        "2026-08-31T00:00:00": 23.86246966666667
+        "2026-08-31T00:00:00": 30.034134166666668
       },
       "monthly_stats": {
-        "2026-08-01T00:00:00": 187.33136681666664
+        "2026-08-01T00:00:00": 193.50303131666664
       }
     },
     "name:Tyquit": {
@@ -2162,8 +2162,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 769,
+    "total_queries": 770,
     "failed_queries": 44
   },
-  "updated_at": "2026-08-31T11:14:55.867738"
+  "updated_at": "2026-08-31T11:21:06.167608"
 }
