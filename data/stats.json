@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-08-31T16:19:28.275432",
-    "last_successful_query": "2026-08-31T16:19:28.275432"
+    "last_query": "2026-08-31T16:25:23.504743",
+    "last_successful_query": "2026-08-31T16:25:23.504743"
   },
   "players": {
     "name:Tealmage": {
@@ -636,17 +636,17 @@
       "name_history": [
         "Zarukma"
       ],
-      "total_minutes": 150.8429515333333,
+      "total_minutes": 156.76344004999996,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-08-31T16:19:28.275432",
+      "last_seen": "2026-08-31T16:25:23.504743",
       "sessions": [],
       "current_session_start": "2026-08-31T16:08:11.619967",
       "weekly_stats": {
         "2026-08-24T00:00:00": 133.68841681666663,
-        "2026-08-31T00:00:00": 17.154534716666667
+        "2026-08-31T00:00:00": 23.075023233333333
       },
       "monthly_stats": {
-        "2026-08-01T00:00:00": 150.8429515333333
+        "2026-08-01T00:00:00": 156.76344004999996
       }
     },
     "name:Shiroiles": {
@@ -1692,17 +1692,17 @@
       "name_history": [
         "KariooS"
       ],
-      "total_minutes": 494.6769734333335,
+      "total_minutes": 500.5974619500002,
       "first_seen": "2026-08-21T19:16:44.014250",
-      "last_seen": "2026-08-31T16:19:28.275432",
+      "last_seen": "2026-08-31T16:25:23.504743",
       "sessions": [],
       "current_session_start": "2026-08-31T16:08:11.619967",
       "weekly_stats": {
         "2026-08-24T00:00:00": 477.52243871666684,
-        "2026-08-31T00:00:00": 17.154534716666667
+        "2026-08-31T00:00:00": 23.075023233333333
       },
       "monthly_stats": {
-        "2026-08-01T00:00:00": 494.6769734333335
+        "2026-08-01T00:00:00": 500.5974619500002
       }
     },
     "name:JanAhrem": {
@@ -2165,8 +2165,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 822,
+    "total_queries": 823,
     "failed_queries": 44
   },
-  "updated_at": "2026-08-31T16:19:28.275432"
+  "updated_at": "2026-08-31T16:25:23.504743"
 }
