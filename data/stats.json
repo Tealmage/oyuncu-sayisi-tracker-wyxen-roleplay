@@ -5,10 +5,10 @@
     "name": "[TR] Wyxen Roleplay V2 | discord.gg/wyxen",
     "map": "wyxen-v2-test1-isik",
     "game": "IX: DarkRP",
-    "online": true,
+    "online": false,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-01T23:57:01.542960",
+    "last_query": "2026-09-02T00:07:43.315748",
     "last_successful_query": "2026-09-01T23:57:01.542960"
   },
   "players": {
@@ -2230,8 +2230,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 1051,
-    "failed_queries": 50
+    "total_queries": 1052,
+    "failed_queries": 51
   },
-  "updated_at": "2026-09-01T23:57:01.542960"
+  "updated_at": "2026-09-02T00:07:43.315748"
 }
