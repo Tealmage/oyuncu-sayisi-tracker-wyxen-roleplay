@@ -8,7 +8,7 @@
     "online": false,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-02T13:58:28.703295",
+    "last_query": "2026-09-02T14:07:39.436302",
     "last_successful_query": "2026-09-01T23:57:01.542960"
   },
   "players": {
@@ -2230,8 +2230,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 1132,
-    "failed_queries": 131
+    "total_queries": 1133,
+    "failed_queries": 132
   },
-  "updated_at": "2026-09-02T13:58:28.703295"
+  "updated_at": "2026-09-02T14:07:39.436302"
 }
