@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-03T20:19:12.935116",
-    "last_successful_query": "2026-09-03T20:19:12.935116"
+    "last_query": "2026-09-03T20:29:02.679596",
+    "last_successful_query": "2026-09-03T20:29:02.679596"
   },
   "players": {
     "name:Tealmage": {
@@ -1328,18 +1328,18 @@
       "name_history": [
         "QuetzalCOADL"
       ],
-      "total_minutes": 319.36034571666676,
+      "total_minutes": 329.1894203833334,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-09-03T20:19:12.935116",
+      "last_seen": "2026-09-03T20:29:02.679596",
       "sessions": [],
       "current_session_start": "2026-09-03T17:39:43.269627",
       "weekly_stats": {
         "2026-08-24T00:00:00": 210.6012521666667,
-        "2026-08-31T00:00:00": 108.75909355
+        "2026-08-31T00:00:00": 118.58816821666667
       },
       "monthly_stats": {
         "2026-08-01T00:00:00": 210.6012521666667,
-        "2026-09-01T00:00:00": 108.75909355
+        "2026-09-01T00:00:00": 118.58816821666667
       }
     },
     "name:2kspex": {
@@ -1760,7 +1760,7 @@
       "first_seen": "2026-08-21T19:16:44.014250",
       "last_seen": "2026-09-03T20:19:12.935116",
       "sessions": [],
-      "current_session_start": "2026-09-03T18:00:15.359385",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-24T00:00:00": 57.24428113333334,
         "2026-08-31T00:00:00": 317.8053132166667
@@ -2245,8 +2245,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 1303,
+    "total_queries": 1304,
     "failed_queries": 158
   },
-  "updated_at": "2026-09-03T20:19:12.935116"
+  "updated_at": "2026-09-03T20:29:02.679596"
 }
