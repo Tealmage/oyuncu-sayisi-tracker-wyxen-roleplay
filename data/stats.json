@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-03T16:32:39.050728",
-    "last_successful_query": "2026-09-03T16:32:39.050728"
+    "last_query": "2026-09-03T16:43:33.227344",
+    "last_successful_query": "2026-09-03T16:43:33.227344"
   },
   "players": {
     "name:Tealmage": {
@@ -1325,7 +1325,7 @@
       ],
       "total_minutes": 210.6012521666667,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-09-03T16:32:39.050728",
+      "last_seen": "2026-09-03T16:43:33.227344",
       "sessions": [],
       "current_session_start": "2026-09-03T16:32:39.050728",
       "weekly_stats": {
@@ -2223,7 +2223,7 @@
       ],
       "total_minutes": 143.29006208333334,
       "first_seen": "2026-09-01T17:42:35.004647",
-      "last_seen": "2026-09-03T16:32:39.050728",
+      "last_seen": "2026-09-03T16:43:33.227344",
       "sessions": [],
       "current_session_start": "2026-09-03T13:44:30.463363",
       "weekly_stats": {
@@ -2238,8 +2238,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 1277,
+    "total_queries": 1278,
     "failed_queries": 158
   },
-  "updated_at": "2026-09-03T16:32:39.050728"
+  "updated_at": "2026-09-03T16:43:33.227344"
 }
