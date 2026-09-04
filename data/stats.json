@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-04T22:43:22.474523",
-    "last_successful_query": "2026-09-04T22:43:22.474523"
+    "last_query": "2026-09-04T22:49:17.448996",
+    "last_successful_query": "2026-09-04T22:49:17.448996"
   },
   "players": {
     "name:Tealmage": {
@@ -88,7 +88,7 @@
       "first_seen": "2026-08-20T07:59:18.141812",
       "last_seen": "2026-09-04T22:43:22.474523",
       "sessions": [],
-      "current_session_start": "2026-09-04T22:43:22.474523",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-17T00:00:00": 5.520297433333334,
         "2026-08-31T00:00:00": 119.25388125000003
@@ -773,18 +773,18 @@
       "name_history": [
         "CamperOzan"
       ],
-      "total_minutes": 907.38085065,
+      "total_minutes": 913.2970918666666,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-04T22:43:22.474523",
+      "last_seen": "2026-09-04T22:49:17.448996",
       "sessions": [],
       "current_session_start": "2026-09-04T22:43:22.474523",
       "weekly_stats": {
         "2026-08-24T00:00:00": 163.46889714999998,
-        "2026-08-31T00:00:00": 743.9119535000001
+        "2026-08-31T00:00:00": 749.8281947166668
       },
       "monthly_stats": {
         "2026-08-01T00:00:00": 459.6269794666667,
-        "2026-09-01T00:00:00": 447.7538711833334
+        "2026-09-01T00:00:00": 453.67011240000005
       }
     },
     "name:Tyquit": {
@@ -1874,7 +1874,7 @@
       "first_seen": "2026-08-21T23:50:00.061756",
       "last_seen": "2026-09-04T22:43:22.474523",
       "sessions": [],
-      "current_session_start": "2026-09-04T22:43:22.474523",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-31T00:00:00": 274.10759095
       },
@@ -2509,8 +2509,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 1484,
+    "total_queries": 1485,
     "failed_queries": 164
   },
-  "updated_at": "2026-09-04T22:43:22.474523"
+  "updated_at": "2026-09-04T22:49:17.448996"
 }
