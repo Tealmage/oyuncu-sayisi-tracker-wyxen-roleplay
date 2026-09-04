@@ -5,10 +5,10 @@
     "name": "[TR] Wyxen Roleplay V2 | discord.gg/wyxen",
     "map": "map-tfrp",
     "game": "IX: DarkRP",
-    "online": true,
+    "online": false,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-04T16:26:06.783107",
+    "last_query": "2026-09-04T16:35:18.249683",
     "last_successful_query": "2026-09-04T16:26:06.783107"
   },
   "players": {
@@ -1011,7 +1011,7 @@
       "first_seen": "2026-08-20T18:01:46.547388",
       "last_seen": "2026-09-04T16:26:06.783107",
       "sessions": [],
-      "current_session_start": "2026-09-04T16:13:58.342038",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-24T00:00:00": 105.59823489999998,
         "2026-08-31T00:00:00": 433.22038058333334
@@ -2249,7 +2249,7 @@
       "first_seen": "2026-09-04T14:58:18.519456",
       "last_seen": "2026-09-04T16:26:06.783107",
       "sessions": [],
-      "current_session_start": "2026-09-04T16:13:58.342038",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-31T00:00:00": 14.152077
       },
@@ -2262,8 +2262,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 1435,
-    "failed_queries": 159
+    "total_queries": 1436,
+    "failed_queries": 160
   },
-  "updated_at": "2026-09-04T16:26:06.783107"
+  "updated_at": "2026-09-04T16:35:18.249683"
 }
