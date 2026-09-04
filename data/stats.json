@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-04T22:49:17.448996",
-    "last_successful_query": "2026-09-04T22:49:17.448996"
+    "last_query": "2026-09-04T22:54:48.738732",
+    "last_successful_query": "2026-09-04T22:54:48.738732"
   },
   "players": {
     "name:Tealmage": {
@@ -84,18 +84,18 @@
       "name_history": [
         "Eternal Life"
       ],
-      "total_minutes": 124.77417868333337,
+      "total_minutes": 130.29567428333337,
       "first_seen": "2026-08-20T07:59:18.141812",
-      "last_seen": "2026-09-04T22:43:22.474523",
+      "last_seen": "2026-09-04T22:54:48.738732",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-09-04T22:54:48.738732",
       "weekly_stats": {
         "2026-08-17T00:00:00": 5.520297433333334,
-        "2026-08-31T00:00:00": 119.25388125000003
+        "2026-08-31T00:00:00": 124.77537685000003
       },
       "monthly_stats": {
         "2026-08-01T00:00:00": 5.520297433333334,
-        "2026-09-01T00:00:00": 119.25388125000003
+        "2026-09-01T00:00:00": 124.77537685000003
       }
     },
     "name:Clementias": {
@@ -777,7 +777,7 @@
       "first_seen": "2026-08-20T18:01:46.547388",
       "last_seen": "2026-09-04T22:49:17.448996",
       "sessions": [],
-      "current_session_start": "2026-09-04T22:43:22.474523",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-24T00:00:00": 163.46889714999998,
         "2026-08-31T00:00:00": 749.8281947166668
@@ -2509,8 +2509,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 1485,
+    "total_queries": 1486,
     "failed_queries": 164
   },
-  "updated_at": "2026-09-04T22:49:17.448996"
+  "updated_at": "2026-09-04T22:54:48.738732"
 }
