@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-04T22:36:44.553115",
-    "last_successful_query": "2026-09-04T22:36:44.553115"
+    "last_query": "2026-09-04T22:43:22.474523",
+    "last_successful_query": "2026-09-04T22:43:22.474523"
   },
   "players": {
     "name:Tealmage": {
@@ -84,18 +84,18 @@
       "name_history": [
         "Eternal Life"
       ],
-      "total_minutes": 118.14215521666671,
+      "total_minutes": 124.77417868333337,
       "first_seen": "2026-08-20T07:59:18.141812",
-      "last_seen": "2026-09-04T20:59:09.521089",
+      "last_seen": "2026-09-04T22:43:22.474523",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-09-04T22:43:22.474523",
       "weekly_stats": {
         "2026-08-17T00:00:00": 5.520297433333334,
-        "2026-08-31T00:00:00": 112.62185778333337
+        "2026-08-31T00:00:00": 119.25388125000003
       },
       "monthly_stats": {
         "2026-08-01T00:00:00": 5.520297433333334,
-        "2026-09-01T00:00:00": 112.62185778333337
+        "2026-09-01T00:00:00": 119.25388125000003
       }
     },
     "name:Clementias": {
@@ -773,18 +773,18 @@
       "name_history": [
         "CamperOzan"
       ],
-      "total_minutes": 900.7488271833333,
+      "total_minutes": 907.38085065,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-04T22:29:07.080208",
+      "last_seen": "2026-09-04T22:43:22.474523",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-09-04T22:43:22.474523",
       "weekly_stats": {
         "2026-08-24T00:00:00": 163.46889714999998,
-        "2026-08-31T00:00:00": 737.2799300333335
+        "2026-08-31T00:00:00": 743.9119535000001
       },
       "monthly_stats": {
         "2026-08-01T00:00:00": 459.6269794666667,
-        "2026-09-01T00:00:00": 441.1218477166667
+        "2026-09-01T00:00:00": 447.7538711833334
       }
     },
     "name:Tyquit": {
@@ -1870,16 +1870,16 @@
       "name_history": [
         "Thns"
       ],
-      "total_minutes": 267.4755674833333,
+      "total_minutes": 274.10759095,
       "first_seen": "2026-08-21T23:50:00.061756",
-      "last_seen": "2026-09-04T22:00:20.832681",
+      "last_seen": "2026-09-04T22:43:22.474523",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-09-04T22:43:22.474523",
       "weekly_stats": {
-        "2026-08-31T00:00:00": 267.4755674833333
+        "2026-08-31T00:00:00": 274.10759095
       },
       "monthly_stats": {
-        "2026-09-01T00:00:00": 267.4755674833333
+        "2026-09-01T00:00:00": 274.10759095
       }
     },
     "name:BatuErx": {
@@ -2509,8 +2509,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 1483,
+    "total_queries": 1484,
     "failed_queries": 164
   },
-  "updated_at": "2026-09-04T22:36:44.553115"
+  "updated_at": "2026-09-04T22:43:22.474523"
 }
