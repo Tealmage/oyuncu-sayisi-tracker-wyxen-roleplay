@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-04T11:30:46.015366",
-    "last_successful_query": "2026-09-04T11:30:46.015366"
+    "last_query": "2026-09-04T11:40:32.798639",
+    "last_successful_query": "2026-09-04T11:40:32.798639"
   },
   "players": {
     "name:Tealmage": {
@@ -17,19 +17,19 @@
       "name_history": [
         "Tealmage"
       ],
-      "total_minutes": 539.9440189833334,
+      "total_minutes": 549.7237402000001,
       "first_seen": "2026-08-18T06:26:47.725160",
-      "last_seen": "2026-09-04T11:30:46.015366",
+      "last_seen": "2026-09-04T11:40:32.798639",
       "sessions": [],
       "current_session_start": "2026-09-04T11:20:56.687165",
       "weekly_stats": {
         "2026-08-17T00:00:00": 2.5824841333333333,
         "2026-08-24T00:00:00": 352.9930165666667,
-        "2026-08-31T00:00:00": 184.36851828333334
+        "2026-08-31T00:00:00": 194.14823950000002
       },
       "monthly_stats": {
         "2026-08-01T00:00:00": 389.5068333166667,
-        "2026-09-01T00:00:00": 150.43718566666666
+        "2026-09-01T00:00:00": 160.21690688333334
       }
     },
     "name:M C C T S R": {
@@ -2245,8 +2245,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 1405,
+    "total_queries": 1406,
     "failed_queries": 158
   },
-  "updated_at": "2026-09-04T11:30:46.015366"
+  "updated_at": "2026-09-04T11:40:32.798639"
 }
