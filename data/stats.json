@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-04T17:41:38.628414",
-    "last_successful_query": "2026-09-04T17:41:38.628414"
+    "last_query": "2026-09-04T17:48:01.262820",
+    "last_successful_query": "2026-09-04T17:48:01.262820"
   },
   "players": {
     "name:Tealmage": {
@@ -1737,18 +1737,18 @@
       "name_history": [
         "KariooS"
       ],
-      "total_minutes": 1084.909486966667,
+      "total_minutes": 1091.286727066667,
       "first_seen": "2026-08-21T19:16:44.014250",
-      "last_seen": "2026-09-04T17:41:38.628414",
+      "last_seen": "2026-09-04T17:48:01.262820",
       "sessions": [],
       "current_session_start": "2026-09-04T17:34:36.783610",
       "weekly_stats": {
         "2026-08-24T00:00:00": 477.52243871666684,
-        "2026-08-31T00:00:00": 607.3870482500001
+        "2026-08-31T00:00:00": 613.7642883500001
       },
       "monthly_stats": {
         "2026-08-01T00:00:00": 772.8828422833336,
-        "2026-09-01T00:00:00": 312.02664468333336
+        "2026-09-01T00:00:00": 318.40388478333335
       }
     },
     "name:JanAhrem": {
@@ -2245,16 +2245,16 @@
       "name_history": [
         "Kepler"
       ],
-      "total_minutes": 35.6768153,
+      "total_minutes": 42.0540554,
       "first_seen": "2026-09-04T14:58:18.519456",
-      "last_seen": "2026-09-04T17:41:38.628414",
+      "last_seen": "2026-09-04T17:48:01.262820",
       "sessions": [],
       "current_session_start": "2026-09-04T17:28:08.621824",
       "weekly_stats": {
-        "2026-08-31T00:00:00": 35.6768153
+        "2026-08-31T00:00:00": 42.0540554
       },
       "monthly_stats": {
-        "2026-09-01T00:00:00": 35.6768153
+        "2026-09-01T00:00:00": 42.0540554
       }
     }
   },
@@ -2262,8 +2262,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 1445,
+    "total_queries": 1446,
     "failed_queries": 164
   },
-  "updated_at": "2026-09-04T17:41:38.628414"
+  "updated_at": "2026-09-04T17:48:01.262820"
 }
