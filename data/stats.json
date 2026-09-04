@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-04T17:20:07.144116",
-    "last_successful_query": "2026-09-04T17:20:07.144116"
+    "last_query": "2026-09-04T17:28:08.621824",
+    "last_successful_query": "2026-09-04T17:28:08.621824"
   },
   "players": {
     "name:Tealmage": {
@@ -1007,18 +1007,18 @@
       "name_history": [
         "Theodore"
       ],
-      "total_minutes": 548.1074134333332,
+      "total_minutes": 556.1320418999999,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-04T17:20:07.144116",
+      "last_seen": "2026-09-04T17:28:08.621824",
       "sessions": [],
       "current_session_start": "2026-09-04T17:10:49.816239",
       "weekly_stats": {
         "2026-08-24T00:00:00": 105.59823489999998,
-        "2026-08-31T00:00:00": 442.50917853333334
+        "2026-08-31T00:00:00": 450.533807
       },
       "monthly_stats": {
         "2026-08-01T00:00:00": 377.43070438333336,
-        "2026-09-01T00:00:00": 170.67670904999997
+        "2026-09-01T00:00:00": 178.70133751666663
       }
     },
     "name:Na 'Mi ENSAİD": {
@@ -2245,16 +2245,16 @@
       "name_history": [
         "Kepler"
       ],
-      "total_minutes": 14.152077,
+      "total_minutes": 22.176705466666668,
       "first_seen": "2026-09-04T14:58:18.519456",
-      "last_seen": "2026-09-04T17:10:49.816239",
+      "last_seen": "2026-09-04T17:28:08.621824",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-09-04T17:28:08.621824",
       "weekly_stats": {
-        "2026-08-31T00:00:00": 14.152077
+        "2026-08-31T00:00:00": 22.176705466666668
       },
       "monthly_stats": {
-        "2026-09-01T00:00:00": 14.152077
+        "2026-09-01T00:00:00": 22.176705466666668
       }
     }
   },
@@ -2262,8 +2262,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 1442,
+    "total_queries": 1443,
     "failed_queries": 164
   },
-  "updated_at": "2026-09-04T17:20:07.144116"
+  "updated_at": "2026-09-04T17:28:08.621824"
 }
