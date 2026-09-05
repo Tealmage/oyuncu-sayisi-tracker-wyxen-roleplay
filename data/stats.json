@@ -5,11 +5,11 @@
     "name": "[TR] Wyxen Roleplay V2 | discord.gg/wyxen",
     "map": "map-tfrp",
     "game": "IX: DarkRP",
-    "online": false,
+    "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-05T10:57:18.900277",
-    "last_successful_query": "2026-09-05T10:40:02.678035"
+    "last_query": "2026-09-05T11:04:00.358185",
+    "last_successful_query": "2026-09-05T11:04:00.358185"
   },
   "players": {
     "name:Tealmage": {
@@ -2526,8 +2526,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 1576,
+    "total_queries": 1577,
     "failed_queries": 173
   },
-  "updated_at": "2026-09-05T10:57:18.900277"
+  "updated_at": "2026-09-05T11:04:00.358185"
 }
