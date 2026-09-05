@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-05T15:01:50.056678",
-    "last_successful_query": "2026-09-05T15:01:50.056678"
+    "last_query": "2026-09-05T15:13:38.421670",
+    "last_successful_query": "2026-09-05T15:13:38.421670"
   },
   "players": {
     "name:Tealmage": {
@@ -1056,7 +1056,7 @@
       ],
       "total_minutes": 889.4406425999997,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-05T15:01:50.056678",
+      "last_seen": "2026-09-05T15:13:38.421670",
       "sessions": [],
       "current_session_start": "2026-09-05T14:55:31.819303",
       "weekly_stats": {
@@ -1508,7 +1508,7 @@
       ],
       "total_minutes": 59.485612599999996,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-09-05T15:01:50.056678",
+      "last_seen": "2026-09-05T15:13:38.421670",
       "sessions": [],
       "current_session_start": "2026-09-05T14:55:31.819303",
       "weekly_stats": {
@@ -1812,9 +1812,9 @@
       ],
       "total_minutes": 1266.2982470000004,
       "first_seen": "2026-08-21T19:16:44.014250",
-      "last_seen": "2026-09-04T22:29:07.080208",
+      "last_seen": "2026-09-05T15:13:38.421670",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-09-05T15:13:38.421670",
       "weekly_stats": {
         "2026-08-24T00:00:00": 477.52243871666684,
         "2026-08-31T00:00:00": 788.7758082833334
@@ -1876,7 +1876,7 @@
       ],
       "total_minutes": 356.28959926666664,
       "first_seen": "2026-08-21T23:50:00.061756",
-      "last_seen": "2026-09-05T15:01:50.056678",
+      "last_seen": "2026-09-05T15:13:38.421670",
       "sessions": [],
       "current_session_start": "2026-09-05T14:55:31.819303",
       "weekly_stats": {
@@ -2530,8 +2530,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 1608,
+    "total_queries": 1609,
     "failed_queries": 182
   },
-  "updated_at": "2026-09-05T15:01:50.056678"
+  "updated_at": "2026-09-05T15:13:38.421670"
 }
