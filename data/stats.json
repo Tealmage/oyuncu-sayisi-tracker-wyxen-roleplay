@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-05T17:36:32.971563",
-    "last_successful_query": "2026-09-05T17:36:32.971563"
+    "last_query": "2026-09-05T17:42:36.919707",
+    "last_successful_query": "2026-09-05T17:42:36.919707"
   },
   "players": {
     "name:Tealmage": {
@@ -1810,18 +1810,18 @@
       "name_history": [
         "KariooS"
       ],
-      "total_minutes": 1362.4809726666674,
+      "total_minutes": 1368.5467750666674,
       "first_seen": "2026-08-21T19:16:44.014250",
-      "last_seen": "2026-09-05T17:36:32.971563",
+      "last_seen": "2026-09-05T17:42:36.919707",
       "sessions": [],
       "current_session_start": "2026-09-05T17:36:32.971563",
       "weekly_stats": {
         "2026-08-24T00:00:00": 477.52243871666684,
-        "2026-08-31T00:00:00": 884.9585339500001
+        "2026-08-31T00:00:00": 891.0243363500001
       },
       "monthly_stats": {
         "2026-08-01T00:00:00": 772.8828422833336,
-        "2026-09-01T00:00:00": 589.5981303833335
+        "2026-09-01T00:00:00": 595.6639327833335
       }
     },
     "name:JanAhrem": {
@@ -1874,16 +1874,16 @@
       "name_history": [
         "Thns"
       ],
-      "total_minutes": 445.7033205999999,
+      "total_minutes": 451.7691229999999,
       "first_seen": "2026-08-21T23:50:00.061756",
-      "last_seen": "2026-09-05T17:05:49.189625",
+      "last_seen": "2026-09-05T17:42:36.919707",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-09-05T17:42:36.919707",
       "weekly_stats": {
-        "2026-08-31T00:00:00": 445.7033205999999
+        "2026-08-31T00:00:00": 451.7691229999999
       },
       "monthly_stats": {
-        "2026-09-01T00:00:00": 445.7033205999999
+        "2026-09-01T00:00:00": 451.7691229999999
       }
     },
     "name:BatuErx": {
@@ -2530,8 +2530,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 1628,
+    "total_queries": 1629,
     "failed_queries": 184
   },
-  "updated_at": "2026-09-05T17:36:32.971563"
+  "updated_at": "2026-09-05T17:42:36.919707"
 }
