@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-05T00:56:14.786638",
-    "last_successful_query": "2026-09-05T00:56:14.786638"
+    "last_query": "2026-09-05T01:02:54.095274",
+    "last_successful_query": "2026-09-05T01:02:54.095274"
   },
   "players": {
     "name:Tealmage": {
@@ -2503,14 +2503,31 @@
       "monthly_stats": {
         "2026-09-01T00:00:00": 6.243254916666667
       }
+    },
+    "name:Kahpelik görmüş aim FluxeN": {
+      "name": "Kahpelik görmüş aim FluxeN",
+      "name_history": [
+        "Kahpelik görmüş aim FluxeN"
+      ],
+      "total_minutes": 6.655143933333333,
+      "first_seen": "2026-09-05T01:02:54.095274",
+      "last_seen": "2026-09-05T01:02:54.095274",
+      "sessions": [],
+      "current_session_start": "2026-09-05T01:02:54.095274",
+      "weekly_stats": {
+        "2026-08-31T00:00:00": 6.655143933333333
+      },
+      "monthly_stats": {
+        "2026-09-01T00:00:00": 6.655143933333333
+      }
     }
   },
   "metadata": {
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 1500,
+    "total_queries": 1501,
     "failed_queries": 165
   },
-  "updated_at": "2026-09-05T00:56:14.786638"
+  "updated_at": "2026-09-05T01:02:54.095274"
 }
