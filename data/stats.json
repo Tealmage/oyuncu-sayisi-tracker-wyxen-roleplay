@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-05T14:50:06.781056",
-    "last_successful_query": "2026-09-05T14:50:06.781056"
+    "last_query": "2026-09-05T14:55:31.819303",
+    "last_successful_query": "2026-09-05T14:55:31.819303"
   },
   "players": {
     "name:Tealmage": {
@@ -1054,18 +1054,18 @@
       "name_history": [
         "Theodore"
       ],
-      "total_minutes": 877.719382233333,
+      "total_minutes": 883.1366863499996,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-05T13:57:32.705499",
+      "last_seen": "2026-09-05T14:55:31.819303",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-09-05T14:55:31.819303",
       "weekly_stats": {
         "2026-08-24T00:00:00": 105.59823489999998,
-        "2026-08-31T00:00:00": 772.1211473333334
+        "2026-08-31T00:00:00": 777.53845145
       },
       "monthly_stats": {
         "2026-08-01T00:00:00": 377.43070438333336,
-        "2026-09-01T00:00:00": 500.28867784999994
+        "2026-09-01T00:00:00": 505.7059819666666
       }
     },
     "name:Na 'Mi ENSAİD": {
@@ -1506,16 +1506,16 @@
       "name_history": [
         "wnvi."
       ],
-      "total_minutes": 47.764352233333334,
+      "total_minutes": 53.18165635,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-09-05T13:57:32.705499",
+      "last_seen": "2026-09-05T14:55:31.819303",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-09-05T14:55:31.819303",
       "weekly_stats": {
-        "2026-08-31T00:00:00": 47.764352233333334
+        "2026-08-31T00:00:00": 53.18165635
       },
       "monthly_stats": {
-        "2026-09-01T00:00:00": 47.764352233333334
+        "2026-09-01T00:00:00": 53.18165635
       }
     },
     "name:Raiden Jack The Ripper": {
@@ -1874,16 +1874,16 @@
       "name_history": [
         "Thns"
       ],
-      "total_minutes": 344.56833889999996,
+      "total_minutes": 349.98564301666664,
       "first_seen": "2026-08-21T23:50:00.061756",
-      "last_seen": "2026-09-05T13:57:32.705499",
+      "last_seen": "2026-09-05T14:55:31.819303",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-09-05T14:55:31.819303",
       "weekly_stats": {
-        "2026-08-31T00:00:00": 344.56833889999996
+        "2026-08-31T00:00:00": 349.98564301666664
       },
       "monthly_stats": {
-        "2026-09-01T00:00:00": 344.56833889999996
+        "2026-09-01T00:00:00": 349.98564301666664
       }
     },
     "name:BatuErx": {
@@ -2530,8 +2530,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 1606,
+    "total_queries": 1607,
     "failed_queries": 182
   },
-  "updated_at": "2026-09-05T14:50:06.781056"
+  "updated_at": "2026-09-05T14:55:31.819303"
 }
