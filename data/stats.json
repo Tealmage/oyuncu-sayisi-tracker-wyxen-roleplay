@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-05T17:29:46.831303",
-    "last_successful_query": "2026-09-05T17:29:46.831303"
+    "last_query": "2026-09-05T17:36:32.971563",
+    "last_successful_query": "2026-09-05T17:36:32.971563"
   },
   "players": {
     "name:Tealmage": {
@@ -1810,18 +1810,18 @@
       "name_history": [
         "KariooS"
       ],
-      "total_minutes": 1355.711968333334,
+      "total_minutes": 1362.4809726666674,
       "first_seen": "2026-08-21T19:16:44.014250",
-      "last_seen": "2026-09-05T17:05:49.189625",
+      "last_seen": "2026-09-05T17:36:32.971563",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-09-05T17:36:32.971563",
       "weekly_stats": {
         "2026-08-24T00:00:00": 477.52243871666684,
-        "2026-08-31T00:00:00": 878.1895296166667
+        "2026-08-31T00:00:00": 884.9585339500001
       },
       "monthly_stats": {
         "2026-08-01T00:00:00": 772.8828422833336,
-        "2026-09-01T00:00:00": 582.8291260500001
+        "2026-09-01T00:00:00": 589.5981303833335
       }
     },
     "name:JanAhrem": {
@@ -2530,8 +2530,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 1627,
+    "total_queries": 1628,
     "failed_queries": 184
   },
-  "updated_at": "2026-09-05T17:29:46.831303"
+  "updated_at": "2026-09-05T17:36:32.971563"
 }
