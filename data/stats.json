@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-06T05:34:09.873130",
-    "last_successful_query": "2026-09-06T05:34:09.873130"
+    "last_query": "2026-09-06T05:41:53.093337",
+    "last_successful_query": "2026-09-06T05:41:53.093337"
   },
   "players": {
     "name:Tealmage": {
@@ -54,18 +54,18 @@
       "name_history": [
         "uygar"
       ],
-      "total_minutes": 454.74432750000017,
+      "total_minutes": 462.4646642833335,
       "first_seen": "2026-08-18T08:05:47.216666",
-      "last_seen": "2026-09-06T05:34:09.873130",
+      "last_seen": "2026-09-06T05:41:53.093337",
       "sessions": [],
       "current_session_start": "2026-09-05T19:15:13.841819",
       "weekly_stats": {
         "2026-08-17T00:00:00": 14.961443233333334,
-        "2026-08-31T00:00:00": 439.78288426666677
+        "2026-08-31T00:00:00": 447.5032210500001
       },
       "monthly_stats": {
         "2026-08-01T00:00:00": 14.961443233333334,
-        "2026-09-01T00:00:00": 439.78288426666677
+        "2026-09-01T00:00:00": 447.5032210500001
       }
     },
     "name:MrZen55": {
@@ -210,16 +210,16 @@
       "name_history": [
         "▶Lukas"
       ],
-      "total_minutes": 364.6174093166667,
+      "total_minutes": 372.3377461,
       "first_seen": "2026-08-20T14:54:35.948303",
-      "last_seen": "2026-09-06T05:34:09.873130",
+      "last_seen": "2026-09-06T05:41:53.093337",
       "sessions": [],
       "current_session_start": "2026-09-06T02:29:16.138566",
       "weekly_stats": {
-        "2026-08-31T00:00:00": 364.6174093166667
+        "2026-08-31T00:00:00": 372.3377461
       },
       "monthly_stats": {
-        "2026-09-01T00:00:00": 364.6174093166667
+        "2026-09-01T00:00:00": 372.3377461
       }
     },
     "name:Normalbiri": {
@@ -3748,8 +3748,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 1717,
+    "total_queries": 1718,
     "failed_queries": 188
   },
-  "updated_at": "2026-09-06T05:34:09.873130"
+  "updated_at": "2026-09-06T05:41:53.093337"
 }
