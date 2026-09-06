@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-06T17:59:53.363470",
-    "last_successful_query": "2026-09-06T17:59:53.363470"
+    "last_query": "2026-09-06T18:11:46.473787",
+    "last_successful_query": "2026-09-06T18:11:46.473787"
   },
   "players": {
     "name:Tealmage": {
@@ -19,7 +19,7 @@
       ],
       "total_minutes": 1236.2893491666669,
       "first_seen": "2026-08-18T06:26:47.725160",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -39,7 +39,7 @@
       ],
       "total_minutes": 575.2520927166667,
       "first_seen": "2026-08-18T06:26:47.725160",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -56,7 +56,7 @@
       ],
       "total_minutes": 888.9254071166672,
       "first_seen": "2026-08-18T08:05:47.216666",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -75,7 +75,7 @@
       ],
       "total_minutes": 502.5120740833333,
       "first_seen": "2026-08-18T08:05:47.216666",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -113,7 +113,7 @@
       ],
       "total_minutes": 1371.6477409833335,
       "first_seen": "2026-08-20T09:54:01.670860",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -133,7 +133,7 @@
       ],
       "total_minutes": 1418.9837548833327,
       "first_seen": "2026-08-20T14:54:35.948303",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -169,7 +169,7 @@
       ],
       "total_minutes": 473.0858050666666,
       "first_seen": "2026-08-20T14:54:35.948303",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -212,7 +212,7 @@
       ],
       "total_minutes": 798.7984889333335,
       "first_seen": "2026-08-20T14:54:35.948303",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -229,7 +229,7 @@
       ],
       "total_minutes": 266.9546623833333,
       "first_seen": "2026-08-20T14:54:35.948303",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -246,7 +246,7 @@
       ],
       "total_minutes": 408.2134410833333,
       "first_seen": "2026-08-20T15:52:45.120862",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:54:15.328297",
       "weekly_stats": {
@@ -276,7 +276,7 @@
       ],
       "total_minutes": 481.1359002499999,
       "first_seen": "2026-08-20T15:52:45.120862",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -293,7 +293,7 @@
       ],
       "total_minutes": 765.9625220500004,
       "first_seen": "2026-08-20T15:52:45.120862",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -310,7 +310,7 @@
       ],
       "total_minutes": 416.97277945,
       "first_seen": "2026-08-20T15:52:45.120862",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -327,7 +327,7 @@
       ],
       "total_minutes": 1696.7187798333337,
       "first_seen": "2026-08-20T15:52:45.120862",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -406,7 +406,7 @@
       ],
       "total_minutes": 550.3330249833334,
       "first_seen": "2026-08-20T17:05:36.673545",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -423,7 +423,7 @@
       ],
       "total_minutes": 596.7280442666668,
       "first_seen": "2026-08-20T17:05:36.673545",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -474,7 +474,7 @@
       ],
       "total_minutes": 357.1782207666667,
       "first_seen": "2026-08-20T17:05:36.673545",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -491,7 +491,7 @@
       ],
       "total_minutes": 324.8654212166667,
       "first_seen": "2026-08-20T17:05:36.673545",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -508,7 +508,7 @@
       ],
       "total_minutes": 802.516948066667,
       "first_seen": "2026-08-20T17:05:36.673545",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -542,7 +542,7 @@
       ],
       "total_minutes": 317.56471309999995,
       "first_seen": "2026-08-20T17:05:36.673545",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -572,7 +572,7 @@
       ],
       "total_minutes": 420.92813784999987,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -591,7 +591,7 @@
       "first_seen": "2026-08-20T18:01:46.547388",
       "last_seen": "2026-09-06T17:59:53.363470",
       "sessions": [],
-      "current_session_start": "2026-09-06T17:48:48.150153",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-31T00:00:00": 521.7597951833334
       },
@@ -606,7 +606,7 @@
       ],
       "total_minutes": 492.9256434,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -623,7 +623,7 @@
       ],
       "total_minutes": 690.9870642833333,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -640,7 +640,7 @@
       ],
       "total_minutes": 381.52676941666664,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -657,7 +657,7 @@
       ],
       "total_minutes": 450.2067065333333,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -674,7 +674,7 @@
       ],
       "total_minutes": 460.0055618833333,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -691,7 +691,7 @@
       ],
       "total_minutes": 279.8959949833333,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -708,7 +708,7 @@
       ],
       "total_minutes": 435.97687463333335,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -725,7 +725,7 @@
       ],
       "total_minutes": 1506.1109004000007,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -744,7 +744,7 @@
       ],
       "total_minutes": 159.0276400333333,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -778,7 +778,7 @@
       ],
       "total_minutes": 587.8587907666669,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -797,7 +797,7 @@
       ],
       "total_minutes": 406.0313070833334,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -814,7 +814,7 @@
       ],
       "total_minutes": 250.62866366666665,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -831,7 +831,7 @@
       ],
       "total_minutes": 565.8152783833335,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -861,9 +861,9 @@
       ],
       "total_minutes": 32.45778513333334,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-05T19:47:41.308927",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-09-06T18:11:46.473787",
       "weekly_stats": {
         "2026-08-31T00:00:00": 32.45778513333334
       },
@@ -880,7 +880,7 @@
       "first_seen": "2026-08-20T18:01:46.547388",
       "last_seen": "2026-09-06T17:59:53.363470",
       "sessions": [],
-      "current_session_start": "2026-09-06T17:48:48.150153",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-31T00:00:00": 136.66599956666664
       },
@@ -914,7 +914,7 @@
       ],
       "total_minutes": 581.1803906833333,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -931,7 +931,7 @@
       ],
       "total_minutes": 588.5266982666668,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -948,7 +948,7 @@
       ],
       "total_minutes": 644.7304424833334,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1000,7 +1000,7 @@
       ],
       "total_minutes": 440.9035986833333,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1047,7 +1047,7 @@
       ],
       "total_minutes": 192.5371937,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1083,7 +1083,7 @@
       ],
       "total_minutes": 622.3260075666668,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1100,7 +1100,7 @@
       ],
       "total_minutes": 409.4509003,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1117,7 +1117,7 @@
       ],
       "total_minutes": 569.7730700833334,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1134,7 +1134,7 @@
       ],
       "total_minutes": 5.63391955,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:59:53.363470",
       "weekly_stats": {
@@ -1151,7 +1151,7 @@
       ],
       "total_minutes": 545.2630981833335,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1168,7 +1168,7 @@
       ],
       "total_minutes": 327.1231623166666,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1186,9 +1186,9 @@
       ],
       "total_minutes": 204.40342824999996,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-04T21:36:33.165202",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-09-06T18:11:46.473787",
       "weekly_stats": {
         "2026-08-24T00:00:00": 50.45376468333333,
         "2026-08-31T00:00:00": 153.9496635666667
@@ -1205,7 +1205,7 @@
       ],
       "total_minutes": 1489.6920987500002,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1224,7 +1224,7 @@
       ],
       "total_minutes": 359.2260701166667,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1241,7 +1241,7 @@
       ],
       "total_minutes": 340.36375925,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1275,7 +1275,7 @@
       ],
       "total_minutes": 278.0000446666666,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1292,7 +1292,7 @@
       ],
       "total_minutes": 227.8712729166667,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1341,7 +1341,7 @@
       ],
       "total_minutes": 101.65932308333333,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1358,7 +1358,7 @@
       ],
       "total_minutes": 200.91916089999998,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1375,7 +1375,7 @@
       ],
       "total_minutes": 381.52676941666664,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1392,7 +1392,7 @@
       ],
       "total_minutes": 1304.383090083333,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1411,7 +1411,7 @@
       ],
       "total_minutes": 596.4243116333334,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1428,7 +1428,7 @@
       ],
       "total_minutes": 238.68819989999997,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1530,7 +1530,7 @@
       ],
       "total_minutes": 425.6838550666666,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1547,9 +1547,9 @@
       ],
       "total_minutes": 0,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-08-23T20:01:07.008797",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-09-06T18:11:46.473787",
       "weekly_stats": {},
       "monthly_stats": {}
     },
@@ -1560,7 +1560,7 @@
       ],
       "total_minutes": 145.54011316666663,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1591,7 +1591,7 @@
       ],
       "total_minutes": 533.4664042333335,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1623,7 +1623,7 @@
       ],
       "total_minutes": 582.2380214166667,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1706,7 +1706,7 @@
       ],
       "total_minutes": 5.63391955,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:59:53.363470",
       "weekly_stats": {
@@ -1723,7 +1723,7 @@
       ],
       "total_minutes": 356.17376528333335,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1740,7 +1740,7 @@
       ],
       "total_minutes": 417.7597376666666,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1757,7 +1757,7 @@
       ],
       "total_minutes": 647.4978274833333,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1774,7 +1774,7 @@
       ],
       "total_minutes": 466.3466997833332,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1793,7 +1793,7 @@
       ],
       "total_minutes": 176.39246609999998,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1827,7 +1827,7 @@
       ],
       "total_minutes": 494.5725984166667,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1876,7 +1876,7 @@
       "first_seen": "2026-08-20T21:00:08.838443",
       "last_seen": "2026-09-06T17:59:53.363470",
       "sessions": [],
-      "current_session_start": "2026-09-06T17:48:48.150153",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-24T00:00:00": 29.321486683333333,
         "2026-08-31T00:00:00": 732.7242881333333
@@ -1919,7 +1919,7 @@
       ],
       "total_minutes": 389.06133501666676,
       "first_seen": "2026-08-21T09:56:47.752722",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1953,7 +1953,7 @@
       ],
       "total_minutes": 310.9782868666666,
       "first_seen": "2026-08-21T17:05:18.823117",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1983,7 +1983,7 @@
       ],
       "total_minutes": 208.36034306666664,
       "first_seen": "2026-08-21T17:05:18.823117",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -2000,7 +2000,7 @@
       ],
       "total_minutes": 610.17949995,
       "first_seen": "2026-08-21T18:03:00.341735",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -2032,7 +2032,7 @@
       ],
       "total_minutes": 361.9784296166667,
       "first_seen": "2026-08-21T18:03:00.341735",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -2049,7 +2049,7 @@
       ],
       "total_minutes": 295.2517655333333,
       "first_seen": "2026-08-21T18:03:00.341735",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -2068,7 +2068,7 @@
       ],
       "total_minutes": 1562.0510131000012,
       "first_seen": "2026-08-21T19:16:44.014250",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -2087,7 +2087,7 @@
       ],
       "total_minutes": 1122.4167436833336,
       "first_seen": "2026-08-21T19:16:44.014250",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -2136,7 +2136,7 @@
       ],
       "total_minutes": 851.0934258999998,
       "first_seen": "2026-08-21T23:50:00.061756",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -2179,7 +2179,7 @@
       ],
       "total_minutes": 363.6329817,
       "first_seen": "2026-08-22T18:01:07.011205",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -2254,7 +2254,7 @@
       "first_seen": "2026-08-22T20:45:38.829009",
       "last_seen": "2026-09-06T17:59:53.363470",
       "sessions": [],
-      "current_session_start": "2026-09-06T17:48:48.150153",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-31T00:00:00": 16.93642991666667
       },
@@ -2282,7 +2282,7 @@
       ],
       "total_minutes": 226.2979545166667,
       "first_seen": "2026-08-22T21:41:13.266918",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -2372,7 +2372,7 @@
       ],
       "total_minutes": 202.76663733333334,
       "first_seen": "2026-08-23T16:53:10.427256",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -2389,7 +2389,7 @@
       ],
       "total_minutes": 340.10208279999995,
       "first_seen": "2026-08-23T17:40:44.675904",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -2407,7 +2407,7 @@
       ],
       "total_minutes": 586.3224012666667,
       "first_seen": "2026-08-23T17:40:44.675904",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -2532,7 +2532,7 @@
       ],
       "total_minutes": 571.3772868333333,
       "first_seen": "2026-08-23T19:02:42.657972",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -2611,7 +2611,7 @@
       ],
       "total_minutes": 579.7615392833334,
       "first_seen": "2026-09-01T17:42:35.004647",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -2645,7 +2645,7 @@
       ],
       "total_minutes": 542.7003991166669,
       "first_seen": "2026-09-04T18:50:40.915756",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -2662,7 +2662,7 @@
       ],
       "total_minutes": 371.91383081666675,
       "first_seen": "2026-09-04T18:50:40.915756",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -2679,7 +2679,7 @@
       ],
       "total_minutes": 527.8081280666668,
       "first_seen": "2026-09-04T18:50:40.915756",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -2696,7 +2696,7 @@
       ],
       "total_minutes": 170.2216157833333,
       "first_seen": "2026-09-04T18:56:02.767914",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -2747,7 +2747,7 @@
       ],
       "total_minutes": 517.9006422666666,
       "first_seen": "2026-09-04T19:12:03.763287",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -2781,7 +2781,7 @@
       ],
       "total_minutes": 557.1688650666669,
       "first_seen": "2026-09-04T19:12:03.763287",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -2862,7 +2862,7 @@
       ],
       "total_minutes": 283.46853819999995,
       "first_seen": "2026-09-05T19:04:38.314398",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -2879,7 +2879,7 @@
       ],
       "total_minutes": 584.8884014500002,
       "first_seen": "2026-09-05T19:04:38.314398",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -2930,7 +2930,7 @@
       ],
       "total_minutes": 357.3382980999999,
       "first_seen": "2026-09-05T19:15:13.841819",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -2998,7 +2998,7 @@
       ],
       "total_minutes": 353.0129458666666,
       "first_seen": "2026-09-05T19:15:13.841819",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -3100,7 +3100,7 @@
       ],
       "total_minutes": 460.1571549,
       "first_seen": "2026-09-05T19:15:13.841819",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -3168,7 +3168,7 @@
       ],
       "total_minutes": 443.4275107833333,
       "first_seen": "2026-09-05T19:23:04.651497",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -3185,7 +3185,7 @@
       ],
       "total_minutes": 446.27240321666676,
       "first_seen": "2026-09-05T19:23:04.651497",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -3202,7 +3202,7 @@
       ],
       "total_minutes": 143.88066398333333,
       "first_seen": "2026-09-05T19:29:14.145837",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -3287,7 +3287,7 @@
       ],
       "total_minutes": 374.60124989999997,
       "first_seen": "2026-09-05T19:41:45.006385",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -3338,7 +3338,7 @@
       ],
       "total_minutes": 394.99762404999996,
       "first_seen": "2026-09-05T19:53:33.094177",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -3389,7 +3389,7 @@
       ],
       "total_minutes": 448.6866081,
       "first_seen": "2026-09-05T20:37:02.014549",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -3576,7 +3576,7 @@
       ],
       "total_minutes": 100.77453471666666,
       "first_seen": "2026-09-05T22:04:12.890663",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -3712,7 +3712,7 @@
       ],
       "total_minutes": 163.47052109999998,
       "first_seen": "2026-09-06T00:22:21.155598",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -3729,7 +3729,7 @@
       ],
       "total_minutes": 100.30035206666666,
       "first_seen": "2026-09-06T00:22:21.155598",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -3780,7 +3780,7 @@
       ],
       "total_minutes": 44.843238616666675,
       "first_seen": "2026-09-06T00:55:06.980138",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -3797,7 +3797,7 @@
       ],
       "total_minutes": 224.5464249833333,
       "first_seen": "2026-09-06T03:52:45.547046",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -3814,7 +3814,7 @@
       ],
       "total_minutes": 404.21349575,
       "first_seen": "2026-09-06T06:08:40.298783",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -3901,7 +3901,7 @@
       "first_seen": "2026-09-06T10:56:25.920533",
       "last_seen": "2026-09-06T17:59:53.363470",
       "sessions": [],
-      "current_session_start": "2026-09-06T17:59:53.363470",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-31T00:00:00": 64.78035015
       },
@@ -3933,7 +3933,7 @@
       ],
       "total_minutes": 196.7249391,
       "first_seen": "2026-09-06T11:50:47.449572",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -3950,7 +3950,7 @@
       ],
       "total_minutes": 56.54044356666667,
       "first_seen": "2026-09-06T11:56:41.822569",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -3969,7 +3969,7 @@
       "first_seen": "2026-09-06T12:35:42.756713",
       "last_seen": "2026-09-06T17:59:53.363470",
       "sessions": [],
-      "current_session_start": "2026-09-06T17:48:48.150153",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-31T00:00:00": 23.94097646666667
       },
@@ -4065,7 +4065,7 @@
       ],
       "total_minutes": 123.65583314999999,
       "first_seen": "2026-09-06T15:26:17.768803",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -4082,7 +4082,7 @@
       ],
       "total_minutes": 115.46562825,
       "first_seen": "2026-09-06T15:26:17.768803",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -4099,7 +4099,7 @@
       ],
       "total_minutes": 123.65583314999999,
       "first_seen": "2026-09-06T15:26:17.768803",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -4133,7 +4133,7 @@
       ],
       "total_minutes": 39.13994408333334,
       "first_seen": "2026-09-06T17:14:35.780380",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -4152,7 +4152,7 @@
       "first_seen": "2026-09-06T17:22:55.444804",
       "last_seen": "2026-09-06T17:59:53.363470",
       "sessions": [],
-      "current_session_start": "2026-09-06T17:48:48.150153",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-31T00:00:00": 32.26871686666667
       },
@@ -4167,7 +4167,7 @@
       ],
       "total_minutes": 39.13994408333334,
       "first_seen": "2026-09-06T17:22:55.444804",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -4201,7 +4201,7 @@
       ],
       "total_minutes": 39.13994408333334,
       "first_seen": "2026-09-06T17:22:55.444804",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -4218,7 +4218,7 @@
       ],
       "total_minutes": 16.93642991666667,
       "first_seen": "2026-09-06T17:48:48.150153",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -4235,7 +4235,7 @@
       ],
       "total_minutes": 16.93642991666667,
       "first_seen": "2026-09-06T17:48:48.150153",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -4252,7 +4252,7 @@
       ],
       "total_minutes": 11.086888616666666,
       "first_seen": "2026-09-06T17:54:15.328297",
-      "last_seen": "2026-09-06T17:59:53.363470",
+      "last_seen": "2026-09-06T18:11:46.473787",
       "sessions": [],
       "current_session_start": "2026-09-06T17:54:15.328297",
       "weekly_stats": {
@@ -4267,8 +4267,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 1808,
+    "total_queries": 1809,
     "failed_queries": 195
   },
-  "updated_at": "2026-09-06T17:59:53.363470"
+  "updated_at": "2026-09-06T18:11:46.473787"
 }
