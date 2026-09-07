@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-07T05:10:23.886953",
-    "last_successful_query": "2026-09-07T05:10:23.886953"
+    "last_query": "2026-09-07T05:22:09.590957",
+    "last_successful_query": "2026-09-07T05:22:09.590957"
   },
   "players": {
     "name:Tealmage": {
@@ -56,7 +56,7 @@
       ],
       "total_minutes": 1297.0883713,
       "first_seen": "2026-08-18T08:05:47.216666",
-      "last_seen": "2026-09-07T05:10:23.886953",
+      "last_seen": "2026-09-07T05:22:09.590957",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -213,7 +213,7 @@
       ],
       "total_minutes": 1206.9614531166667,
       "first_seen": "2026-08-20T14:54:35.948303",
-      "last_seen": "2026-09-07T05:10:23.886953",
+      "last_seen": "2026-09-07T05:22:09.590957",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -512,7 +512,7 @@
       ],
       "total_minutes": 1210.6799122500001,
       "first_seen": "2026-08-20T17:05:36.673545",
-      "last_seen": "2026-09-07T05:10:23.886953",
+      "last_seen": "2026-09-07T05:22:09.590957",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -1215,7 +1215,7 @@
       ],
       "total_minutes": 1897.855062933333,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-07T05:10:23.886953",
+      "last_seen": "2026-09-07T05:22:09.590957",
       "sessions": [],
       "current_session_start": "2026-09-06T17:48:48.150153",
       "weekly_stats": {
@@ -2411,9 +2411,9 @@
       ],
       "total_minutes": 710.2305459999999,
       "first_seen": "2026-08-23T17:40:44.675904",
-      "last_seen": "2026-09-07T02:58:32.012457",
+      "last_seen": "2026-09-07T05:22:09.590957",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-09-07T05:22:09.590957",
       "weekly_stats": {
         "2026-08-31T00:00:00": 626.9366781333333,
         "2026-09-07T00:00:00": 83.29386786666666
@@ -4485,8 +4485,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 1885,
+    "total_queries": 1886,
     "failed_queries": 195
   },
-  "updated_at": "2026-09-07T05:10:23.886953"
+  "updated_at": "2026-09-07T05:22:09.590957"
 }
