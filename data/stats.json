@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-08T02:11:31.961004",
-    "last_successful_query": "2026-09-08T02:11:31.961004"
+    "last_query": "2026-09-08T02:24:05.199440",
+    "last_successful_query": "2026-09-08T02:24:05.199440"
   },
   "players": {
     "name:Tealmage": {
@@ -58,7 +58,7 @@
       ],
       "total_minutes": 1722.3301314499995,
       "first_seen": "2026-08-18T08:05:47.216666",
-      "last_seen": "2026-09-08T02:11:31.961004",
+      "last_seen": "2026-09-08T02:24:05.199440",
       "sessions": [],
       "current_session_start": "2026-09-07T19:42:28.451480",
       "weekly_stats": {
@@ -221,7 +221,7 @@
       ],
       "total_minutes": 1546.610487183333,
       "first_seen": "2026-08-20T14:54:35.948303",
-      "last_seen": "2026-09-08T02:11:31.961004",
+      "last_seen": "2026-09-08T02:24:05.199440",
       "sessions": [],
       "current_session_start": "2026-09-07T21:28:27.770429",
       "weekly_stats": {
@@ -530,7 +530,7 @@
       ],
       "total_minutes": 1611.6441163999998,
       "first_seen": "2026-08-20T17:05:36.673545",
-      "last_seen": "2026-09-08T02:11:31.961004",
+      "last_seen": "2026-09-08T02:24:05.199440",
       "sessions": [],
       "current_session_start": "2026-09-07T19:42:28.451480",
       "weekly_stats": {
@@ -1209,7 +1209,7 @@
       ],
       "total_minutes": 1033.19886255,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-08T02:11:31.961004",
+      "last_seen": "2026-09-08T02:24:05.199440",
       "sessions": [],
       "current_session_start": "2026-09-07T19:42:28.451480",
       "weekly_stats": {
@@ -1740,7 +1740,7 @@
       ],
       "total_minutes": 624.5905777500001,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-09-08T02:11:31.961004",
+      "last_seen": "2026-09-08T02:24:05.199440",
       "sessions": [],
       "current_session_start": "2026-09-08T01:14:33.408223",
       "weekly_stats": {
@@ -1858,7 +1858,7 @@
       ],
       "total_minutes": 1198.3319276,
       "first_seen": "2026-08-20T19:46:08.585799",
-      "last_seen": "2026-09-08T02:11:31.961004",
+      "last_seen": "2026-09-08T02:24:05.199440",
       "sessions": [],
       "current_session_start": "2026-09-07T19:42:28.451480",
       "weekly_stats": {
@@ -4811,8 +4811,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 2010,
+    "total_queries": 2011,
     "failed_queries": 195
   },
-  "updated_at": "2026-09-08T02:11:31.961004"
+  "updated_at": "2026-09-08T02:24:05.199440"
 }
