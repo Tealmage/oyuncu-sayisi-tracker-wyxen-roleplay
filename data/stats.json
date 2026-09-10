@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-10T11:33:43.069343",
-    "last_successful_query": "2026-09-10T11:33:43.069343"
+    "last_query": "2026-09-10T11:44:15.059285",
+    "last_successful_query": "2026-09-10T11:44:15.059285"
   },
   "players": {
     "name:Tealmage": {
@@ -1268,7 +1268,7 @@
       ],
       "total_minutes": 2367.6718177833322,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-10T11:33:43.069343",
+      "last_seen": "2026-09-10T11:44:15.059285",
       "sessions": [],
       "current_session_start": "2026-09-10T11:33:43.069343",
       "weekly_stats": {
@@ -5185,8 +5185,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 2346,
+    "total_queries": 2347,
     "failed_queries": 337
   },
-  "updated_at": "2026-09-10T11:33:43.069343"
+  "updated_at": "2026-09-10T11:44:15.059285"
 }
