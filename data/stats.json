@@ -8,8 +8,8 @@
     "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-12T15:35:34.590915",
-    "last_successful_query": "2026-09-12T15:35:34.590915"
+    "last_query": "2026-09-12T15:42:42.745555",
+    "last_successful_query": "2026-09-12T15:42:42.745555"
   },
   "players": {
     "name:Tealmage": {
@@ -1266,19 +1266,19 @@
       "name_history": [
         "Theodore"
       ],
-      "total_minutes": 2381.3987675999992,
+      "total_minutes": 2388.534678266666,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-12T15:35:34.590915",
+      "last_seen": "2026-09-12T15:42:42.745555",
       "sessions": [],
       "current_session_start": "2026-09-12T15:35:34.590915",
       "weekly_stats": {
         "2026-08-24T00:00:00": 105.59823489999998,
         "2026-08-31T00:00:00": 1670.9284591833334,
-        "2026-09-07T00:00:00": 604.8720735166667
+        "2026-09-07T00:00:00": 612.0079841833333
       },
       "monthly_stats": {
         "2026-08-01T00:00:00": 377.43070438333336,
-        "2026-09-01T00:00:00": 2003.968063216666
+        "2026-09-01T00:00:00": 2011.1039738833326
       }
     },
     "name:Na 'Mi ENSAİD": {
@@ -5185,8 +5185,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 2690,
+    "total_queries": 2691,
     "failed_queries": 660
   },
-  "updated_at": "2026-09-12T15:35:34.590915"
+  "updated_at": "2026-09-12T15:42:42.745555"
 }
