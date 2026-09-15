@@ -5,11 +5,11 @@
     "name": "theodore_test",
     "map": "map-tfrp",
     "game": "IX: DarkRP",
-    "online": false,
+    "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-15T14:14:04.295595",
-    "last_successful_query": "2026-09-14T15:02:01.407113"
+    "last_query": "2026-09-15T14:26:45.110715",
+    "last_successful_query": "2026-09-15T14:26:45.110715"
   },
   "players": {
     "name:Tealmage": {
@@ -5186,8 +5186,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 3118,
+    "total_queries": 3119,
     "failed_queries": 1070
   },
-  "updated_at": "2026-09-15T14:14:04.295595"
+  "updated_at": "2026-09-15T14:26:45.110715"
 }
