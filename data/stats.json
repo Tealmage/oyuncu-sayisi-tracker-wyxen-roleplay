@@ -5,10 +5,10 @@
     "name": "theodore_test",
     "map": "map-tfrp",
     "game": "IX: DarkRP",
-    "online": true,
+    "online": false,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-15T16:03:45.698041",
+    "last_query": "2026-09-15T16:18:30.244498",
     "last_successful_query": "2026-09-15T16:03:45.698041"
   },
   "players": {
@@ -2248,7 +2248,7 @@
       "first_seen": "2026-08-21T23:50:00.061756",
       "last_seen": "2026-09-15T16:03:45.698041",
       "sessions": [],
-      "current_session_start": "2026-09-15T15:05:28.401354",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-31T00:00:00": 1132.3915321833333,
         "2026-09-07T00:00:00": 425.9552587166668,
@@ -5187,8 +5187,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 3129,
-    "failed_queries": 1071
+    "total_queries": 3130,
+    "failed_queries": 1072
   },
-  "updated_at": "2026-09-15T16:03:45.698041"
+  "updated_at": "2026-09-15T16:18:30.244498"
 }
