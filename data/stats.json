@@ -5,11 +5,11 @@
     "name": "theodore_test",
     "map": "map-tfrp",
     "game": "IX: DarkRP",
-    "online": false,
+    "online": true,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-16T13:47:33.830201",
-    "last_successful_query": "2026-09-16T13:35:05.375498"
+    "last_query": "2026-09-16T13:56:46.946650",
+    "last_successful_query": "2026-09-16T13:56:46.946650"
   },
   "players": {
     "name:Tealmage": {
@@ -1268,9 +1268,9 @@
       ],
       "total_minutes": 2457.9050222833325,
       "first_seen": "2026-08-20T18:01:46.547388",
-      "last_seen": "2026-09-16T13:35:05.375498",
+      "last_seen": "2026-09-16T13:56:46.946650",
       "sessions": [],
-      "current_session_start": null,
+      "current_session_start": "2026-09-16T13:56:46.946650",
       "weekly_stats": {
         "2026-08-24T00:00:00": 105.59823489999998,
         "2026-08-31T00:00:00": 1670.9284591833334,
@@ -5187,8 +5187,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 3261,
+    "total_queries": 3262,
     "failed_queries": 1197
   },
-  "updated_at": "2026-09-16T13:47:33.830201"
+  "updated_at": "2026-09-16T13:56:46.946650"
 }
