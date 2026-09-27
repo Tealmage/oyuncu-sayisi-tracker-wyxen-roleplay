@@ -5,10 +5,10 @@
     "name": "theodore_test",
     "map": "map-tfrp",
     "game": "IX: DarkRP",
-    "online": true,
+    "online": false,
     "players": null,
     "max_players": 128,
-    "last_query": "2026-09-27T15:18:32.762962",
+    "last_query": "2026-09-27T19:01:03.036043",
     "last_successful_query": "2026-09-27T15:18:32.762962"
   },
   "players": {
@@ -1270,7 +1270,7 @@
       "first_seen": "2026-08-20T18:01:46.547388",
       "last_seen": "2026-09-27T15:18:32.762962",
       "sessions": [],
-      "current_session_start": "2026-09-27T15:18:32.762962",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-24T00:00:00": 105.59823489999998,
         "2026-08-31T00:00:00": 1670.9284591833334,
@@ -2177,7 +2177,7 @@
       "first_seen": "2026-08-21T19:16:44.014250",
       "last_seen": "2026-09-27T15:18:32.762962",
       "sessions": [],
-      "current_session_start": "2026-09-27T15:18:32.762962",
+      "current_session_start": null,
       "weekly_stats": {
         "2026-08-24T00:00:00": 477.52243871666684,
         "2026-08-31T00:00:00": 1251.2766778999999,
@@ -5187,8 +5187,8 @@
     "timezone": "Europe/Istanbul",
     "polling_interval_minutes": 5,
     "first_run": null,
-    "total_queries": 3424,
-    "failed_queries": 1320
+    "total_queries": 3425,
+    "failed_queries": 1321
   },
-  "updated_at": "2026-09-27T15:18:32.762962"
+  "updated_at": "2026-09-27T19:01:03.036043"
 }
